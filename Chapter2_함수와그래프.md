@@ -23,3 +23,7 @@
   $t=2,   V_{f}(z,2)=V_{o}\cos(2\omega-\beta z) =V_{o}\cos(-\beta (z-\frac{2\omega}{\beta})$  
   $\omega$와 $\beta$ 모두 상수 이기 때문에 $z-\frac{\omega}{\beta}$는 변수 z에 대한 함수로 볼 수 있고,  
   시간이 변화함(t)에 따라 z의 +방향으로 $\frac{\omega t}{\beta}$ 이동한다고 볼 수 있다. 
+
+![wave_propagation](https://github.com/DooHub/Electromagnetic_Math/assets/99073912/97d2f27b-5676-4349-abcc-68d89b50c025)
+
+* 참조 <https://www.brown.edu/research/labs/mittleman/sites/brown.edu.research.labs.mittleman/files/uploads/lecture02_0.pdf>
