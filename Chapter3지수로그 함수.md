@@ -25,3 +25,9 @@
   + $a^{m}=N \Leftarrow \Rightarrow m = log_{a}N $  
    N:진수(argument) &nbsp;&nbsp;m(Exponent):a를 밑으로 하는 N의 로그 &nbsp;&nbsp;The logarithm, base a of N  
    상용 로그 = Common log
+2. 로그의 성질  
+$a>0, a\neq1, M>0, N>0$ 일 때
+  + $log_{a}a=1$
+  + $log_{a}1=0$
+  + $log_{a}MN=log_{a}M+log_{a}N$
+  + $log_{a}\frac{M}{N}=log_{a}M-log_{a}N$
