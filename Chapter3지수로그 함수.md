@@ -44,4 +44,8 @@ $a>0, a\neq1, c>0, c\neq1,b>0$ 일 때
      $\textbf{Let :}  A=log_{a^{m}}M^{n}  --> (a^{m})^{A}=M^{n}$
      $()^{\frac{1}{n}}  ==> (a^{mA})^{\frac{1}{n}}=(M^{n})^{\frac{1}{n}} , a^{\frac{m}{n}A}=M, log_{a}a^{\frac{m}{n}A}=log_{a}M$
      $\frac{m}{n}A =log_{a}M ==> A=\frac{n}{m}log_{a}M$
-
+ ## 문제1  
+ $log_{10}2=a, log_{10}3=b$라 할 때 다음 식의 값을  a,b로 나타내어라  
+   + $log_{10)\sqrt{30}$   
+     $log_{10}30^{\frac{1}{2}}=\frac{1}{2}log_{10}(3\times 2\times 10)=\frac{1}{2}(log_{10}2+log_{10}3+log_{10}10)$  
+     
