@@ -4,3 +4,5 @@
   + $a^{m}=N$ --->  &nbsp;&nbsp;a:밑    &nbsp;&nbsp;n: 지수
 2. 지수법칙  
   a>0, b>0이고 m,n 이 정수 일 때, 다음과 같은 성질이 성립한다.
+  + $a^{\frac{m}{n}}=\sqrt[n]{a^{m}}$
+  + $\left ( a^{m} \right )^{n}=a^{mn}=\left ( a^{n} \right )^{m}$
