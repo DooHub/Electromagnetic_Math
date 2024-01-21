@@ -41,5 +41,7 @@ $a>0, a\neq1, c>0, c\neq1,b>0$ 일 때
     $\textbf{Let :}  A=a^{log_{b}c} --> log_{a}A=log_{b}c$ &nbsp;,&nbsp; $\frac{log_{c}A}{log_{c}a}=\frac{log_{c}c}{log_{c}b}=\frac{1}{log_{c}b}$  
     $log_{c}A=\frac{log_{c}a}{log_{c}b} = log_{b}a$ &nbsp;,&nbsp; $A=c^{log_{b}a}$
   + $log_{a^{m}}M^{n}=\frac{n}{m}log_{a}{M}$ (m,n은 실수이고, $m=\neq0$)   
-     $\textbf{Let :}  A=log_{a^{m}}M^{n}  --> (a^[m})^{A}=M^{n},  ==> (a^{mA})^{\frac{1}{n}=(M^{n})^{\frac{1}$
+     $\textbf{Let :}  A=log_{a^{m}}M^{n}  --> (a^{m})^{A}=M^{n}$
+     $()^{\frac{1}{n}}  ==> (a^{mA})^{\frac{1}{n}}=(M^{n})^{\frac{1}{n}} , a^{\frac{m}{n}A}=M, log_{a}a^{\frac{m}{n}A}=log_{a}M$
+     $\frac{m}{n}A =log_{a}M ==> A=\frac{n}{m}log_{a}M$
 
