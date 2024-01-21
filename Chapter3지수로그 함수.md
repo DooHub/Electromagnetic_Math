@@ -35,5 +35,6 @@ $a>0, a\neq1, M>0, N>0$ 일 때
 3. 밑변환 공식  
 $a>0, a\neq1, c>0, c\neq1,b>0$ 일 때
   + $log_{a}b=\frac{log_{c}b}{log_{c}a}$    
-    $\textbf{Let :}  A=log_{a}b, a^{A}=b --> log_{c}a^{A}=log_{c}b --> Alog_{c}a=log_{c}b --> A=\frac{log_{c}b}{log_{c}a} $ 
+    $\textbf{Let :}  A=log_{a}b, a^{A}=b --> log_{c}a^{A}=log_{c}b --> Alog_{c}a=log_{c}b --> A=\frac{log_{c}b}{log_{c}a} $
+  + $log_{a}b=\frac{1}{log_{b}a} --->  log_{a}b=\frac{log_{b}b}{log_{b}a} , log_{b}b=1$
 
