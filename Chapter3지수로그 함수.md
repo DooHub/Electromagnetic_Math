@@ -10,4 +10,6 @@
   a>0, b>0이고, m,n이 1보다 큰 정수 일 때  -- 전하에 일정 거리의 전계를 구할 때 분모와 분자 부분 거리 정리 할 때 사용
   + $\sqrt[n]{a}\sqrt[n]{b}=\sqrt[n]{ab}$
   + $\frac{{}\sqrt[n]{a}}{\sqrt[n]{b}}=\sqrt[n]{\frac{a}{b}}$
-  + 
+  + $\left ( \sqrt[n]{a} \right )^{m}=\sqrt[n]{a^{m}}$
+  + $\sqrt[m]{\sqrt[n]{a}}=\sqrt[mn]{a}=\sqrt[n]{\sqrt[m]{a}}$
+  + $\sqrt[np]{a^{mp}}=\sqrt[n]{a^{m}}$
