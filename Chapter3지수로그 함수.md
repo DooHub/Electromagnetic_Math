@@ -6,3 +6,8 @@
   a>0, b>0이고 m,n 이 정수 일 때, 다음과 같은 성질이 성립한다.
   + $a^{\frac{m}{n}}=\sqrt[n]{a^{m}}$
   + $\left ( a^{m} \right )^{n}=a^{mn}=\left ( a^{n} \right )^{m}$
+3. 거듭제곱근의 성질  
+  a>0, b>0이고, m,n이 1보다 큰 정수 일 때  -- 전하에 일정 거리의 전계를 구할 때 분모와 분자 부분 거리 정리 할 때 사용
+  + $\sqrt[n]{a}\sqrt[n]{b}=\sqrt[n]{ab}$
+  + $\frac{{}\sqrt[n]{a}}{\sqrt[n]{b}}=\sqrt[n]{\frac{a}{b}}$
+  + 
