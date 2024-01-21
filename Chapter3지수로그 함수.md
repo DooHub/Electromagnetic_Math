@@ -40,4 +40,5 @@ $a>0, a\neq1, c>0, c\neq1,b>0$ 일 때
   + $a^{log_{b}c}=c^{log_{b}a} (b>0, b\neq1, c>0)$  
     $\textbf{Let :}  A=a^{log_{b}c} --> log_{a}A=log_{b}c$ &nbsp;,&nbsp; $\frac{log_{c}A}{log_{c}a}=\frac{log_{c}c}{log_{c}b}=\frac{1}{log_{c}b}$  
     $log_{c}A=\frac{log_{c}a}{log_{c}b} = log_{b}a$ &nbsp;,&nbsp; $A=c^{log_{b}a}$
+  + $log_{a^{m}}M^{n}=\frac{n}{m}log_{a}{M}$ (m,n은 실수이고, $m=\neq0$)
 
