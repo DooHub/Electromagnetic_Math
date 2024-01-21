@@ -21,5 +21,7 @@
 
 1. 로그의 정의  
   $a>0, a\neq1$ 이고 N>0일 때, $a^{m}=N$을 만족하는 m은 오직 하나 존재 한다.
+  수학적으로 a는 0보다 작을 수 있으나, **공학에서는 안정화(수렴 또는 계산이 되는)를 고려하여 a가 음수 일 때는 고려 안 함.**
   + $a^{m}=N \Leftarrow \Rightarrow m = log_{a}N $  
-   N:진수 &nbsp;&nbsp;m:a를 밑으로 하는 N의 로그
+   N:진수(argument) &nbsp;&nbsp;m(Exponent):a를 밑으로 하는 N의 로그 &nbsp;&nbsp;The logarithm, base a of N  
+   상용 로그 = Common log
