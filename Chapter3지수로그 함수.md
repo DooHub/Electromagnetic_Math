@@ -7,9 +7,19 @@
   + $a^{\frac{m}{n}}=\sqrt[n]{a^{m}}$
   + $\left ( a^{m} \right )^{n}=a^{mn}=\left ( a^{n} \right )^{m}$
 3. 거듭제곱근의 성질  
-  a>0, b>0이고, m,n이 1보다 큰 정수 일 때  -- 전하에 일정 거리의 전계를 구할 때 분모와 분자 부분 거리 정리 할 때 사용
+  a>0, b>0이고, m,n이 1보다 큰 정수 일 때  
+-- 전하에 일정 거리의 전계를 구할 때 분모와 분자 부분 거리 정리 할 때 사용
   + $\sqrt[n]{a}\sqrt[n]{b}=\sqrt[n]{ab}$
   + $\frac{{}\sqrt[n]{a}}{\sqrt[n]{b}}=\sqrt[n]{\frac{a}{b}}$
   + $\left ( \sqrt[n]{a} \right )^{m}=\sqrt[n]{a^{m}}$
   + $\sqrt[m]{\sqrt[n]{a}}=\sqrt[mn]{a}=\sqrt[n]{\sqrt[m]{a}}$
   + $\sqrt[np]{a^{mp}}=\sqrt[n]{a^{m}}$
+
+# 로그  
+지수는 매우 큰 수나 매우 작은 수를 표현 할수 있지만, 그래프로 표현하기 어렸다.  
+로그를 이용하면 위와 같은 문제를 해결 할 수 있다.
+
+1. 로그의 정의  
+  $a>0, a\neq1$ 이고 N>0일 때, $a^{m}=N$을 만족하는 m은 오직 하나 존재 한다.
+  + $a^{m}=N \Leftarrow \Rightarrow m = log_{a}N $  
+   N:진수 &nbsp;&nbsp;m:a를 밑으로 하는 N의 로그
