@@ -47,6 +47,6 @@ $a>0, a\neq1, c>0, c\neq1,b>0$ 일 때
  ## 문제1  
  $log_{10}2=a, log_{10}3=b$라 할 때 다음 식의 값을  a,b로 나타내어라  
    + $log_{10}\sqrt{30}$   
-     $log_{10}30^{\frac{1}{2}}=\frac{1}{2}log_{10}(3\times 2\times 2 \times 5)=\frac{1}{2}(log_{10}2+log_{10}3+log_{10}2+log_{10}5), log_{10}5=log_{10}\frac{10}{2}=log_{10}10-log{10}2$  
-     $\frac{1}{2}(log_{10}2+log_{10}3+log_{10}2+ log_{10}10-log_{10}2)$  
+     $log_{10}30^{\frac{1}{2}}=\frac{1}{2}log_{10}(3\times 2 \times 5)=\frac{1}{2}(log_{10}3+log_{10}2+log_{10}5), log_{10}5=log_{10}\frac{10}{2}=log_{10}10-log{10}2$  
+     $\frac{1}{2}(log_{10}3+log_{10}2+ log_{10}10-log_{10}2) =\frac{1}{2}(b+a+1-a)=\frac{1}{2}(b+1) $  
      
