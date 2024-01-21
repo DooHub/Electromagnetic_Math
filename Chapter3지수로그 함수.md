@@ -31,3 +31,9 @@ $a>0, a\neq1, M>0, N>0$ 일 때
   + $log_{a}1=0$
   + $log_{a}MN=log_{a}M+log_{a}N$
   + $log_{a}\frac{M}{N}=log_{a}M-log_{a}N$
+  + $log_{a}M^{n}=nlog_{a}M$&nbsp;$&nbsp;(n은 실수)
+3. 밑변환 공식  
+$a>0, a\neq1, c>0, c\neq1,b>0$ 일 때
+  + $log_{a}b=\frac{log_{c}b}{log_{c}a}$    
+    $\textbf{Let :}  A=log_{a}b, a^{A}=b --> log_{c}a^{A}=log_{c}b --> Alog_{c}a=log_{c}b --> A=\frac{log_{c}b}{log_{c}a} $ 
+
