@@ -59,4 +59,10 @@ $a>0, a\neq1, c>0, c\neq1,b>0$ 일 때
   + $e ^{2x}=3$일 때,  $\frac{e^{3x}+e^{-3x}}{e^{x}+e^{-x}}$ 구하라    
   ### $\frac{e^{-3x}(e^{6x}+1)}{e^{-x}(e^{2x}+1)} = \frac{e^{-2x}(e^{6x}+1)}{(e^{2x}+1)}$
   ### $=\frac{e^{-2x}((e^{2x})^{3}+1)}{(e^{2x}+1)}=\frac{1}{3}\times \frac{27+1}{3+1}=\frac{7}{3}$
-  
+
+  # 자연로 (natural logarithm)   
+  1. 무리수 e의 정의 
+   ###  $e = \lim_{n\rightarrow \infty }\left ( 1+\frac{1}{n} \right )^{n}$  
+   ###  $( 1+\frac{1}{10})^{10} = 2.5937 \cdot \cdot \cdot$  
+   ###  $( 1+\frac{1}{1000})^{1000} = 2.7169 \cdot \cdot \cdot$  
+   ###  $e = 2.71828182 \cdot \cdot \cdot$
