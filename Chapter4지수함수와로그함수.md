@@ -26,7 +26,13 @@
    $V=Aln\rho+V_{o}-Alna=Aln\frac{\rho}{a}+V_{o}$  
    $\rho=b --> 0=Aln\frac{b}{a}+V_{o}, Aln\frac{b}{a}=-V_{o},\therefore A=\frac{-V_{0}}{ln\frac{b}{a}}$  
    조건을 통해 구한 A와 B를 식에 대입   
-   $V=\frac{-V_{0}}{ln\frac{b}{a}}ln\frac{\rho}{a}+V_{o} = V_{o}(1-\frac{ln\frac{\rho}{a}}{ln\frac{b}{a}})=V_{o}(\frac{ln\frac{b}{a}-ln\frac{\rho}{a}}{ln\frac{b}{a}})=V_{o}\frac{ln\frac{b}{\rho}}{ln\frac{b}{a}}$   
+   $V=\frac{-V_{0}}{ln\frac{b}{a}}ln\frac{\rho}{a}+V_{o} = V_{o}(1-\frac{ln\frac{\rho}{a}}{ln\frac{b}{a}})$  
+   $V_{o}(1-\frac{ln\frac{\rho}{a}}{ln\frac{b}{a}})=V_{o}(\frac{ln\frac{b}{a}-ln\frac{\rho}{a}}{ln\frac{b}{a}})$  
+   $V_{o}(\frac{ln\frac{b}{a}-ln\frac{\rho}{a}}{ln\frac{b}{a}})=V_{o}\frac{ln\frac{b}{\rho}}{ln\frac{b}{a}}$  
+   $V=V_{o}\frac{ln\frac{b}{\rho}}{ln\frac{b}{a}}$
+
+   ![원통](https://github.com/DooHub/Electromagnetic_Math/assets/99073912/d02fdf7c-e4fe-4d48-8019-d3d1aabc7b35)
+   a와 b 사이의 전화
    
    
 
