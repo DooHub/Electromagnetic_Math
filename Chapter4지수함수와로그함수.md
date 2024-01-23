@@ -19,4 +19,11 @@
 
 ## 문제  
 ### Laplace방정식 $\frac{1}{\rho }\frac{\partial }{\partial\rho}(\rho\frac{\partial V}{\partial \rho})=0$을 풀면 $V=Aln\rho+B$ 꼴의 해를 구할 수 있다.  
-### 여기에 아래 조건을 적용했을 때의 해들 구하고, $a>\rho<b&인 구간에서의 그래프를 그려라. A와 B는모르는 상수
+### 여기에 아래 조건을 적용했을 때의 해들 구하고, $a>\rho<b&인 구간에서의 그래프를 그려라.   
+ + 조건 : $\rho =a$ 에서 $V=V_{o}$, $\rho =b$ 에서  V=0  
+   조건을 이용해서 unknown A와 B를 구한다.  
+   $\rho=a --> V_{o}=Alna+B, \therefore B=V_{o}-Alna$  
+   $V=Aln\rho+V_{o}-Alna, \rho=b --> 0=Alnb+V_{o}-Alna, 0=Aln\frac{b}{a}+V_{o}$   
+   
+   
+
