@@ -33,6 +33,8 @@
 
    ![원통](https://github.com/DooHub/Electromagnetic_Math/assets/99073912/d02fdf7c-e4fe-4d48-8019-d3d1aabc7b35)   
    a와 b 사이의 전화
+
+   ![Uploading IMG_2535.jpeg…]()
    
    
 
