@@ -37,3 +37,4 @@ $e^{j(\alpha +\beta)} =cos(\alpha +\beta)+jsin(\alpha +\beta)$ --식2
 식1과 식2는 같다 =실수부와 허수부가 각각 같다  
 $\therefore cos(\alpha +\beta)+jsin(\alpha +\beta)=(cos\alpha cos\beta -sin\alpha cos\beta)+j(cos\alpha sin\beta +sin\alpha cos\beta)$  
 #### 증명2 Vector 개념 이용
+<img width="834" alt="vector" src="https://github.com/DooHub/Electromagnetic_Math/assets/99073912/f41ba048-1946-4029-972b-febb72bd8af4">
