@@ -32,5 +32,7 @@
 # 삼각함수의 덧셈 정리
 ## $cos(\alpha+\beta)=cos\alpha cos\beta-sin\alpha sin\beta$
 #### 증명1 오일러 공식  $e^{j\theta }=cos\theta+jsin\theta$  
-$e^{j(\alpha +\beta)} =e^{j\alpha }e^{j\beta }=(cos\alpha+jsin\alpha)(cos\beta+jsin\beta)=(cos\alpha cos\beta -sin\alpha cos\beta)+j(cos\alpha sin\beta +sin\alpha cos\beta)$  
-$e^{j(\alpha +\beta)} =cos(\alpha +\beta)+jsin(\alpha +\beta)$
+$e^{j(\alpha +\beta)} =e^{j\alpha }e^{j\beta }=(cos\alpha+jsin\alpha)(cos\beta+jsin\beta)=(cos\alpha cos\beta -sin\alpha cos\beta)+j(cos\alpha sin\beta +sin\alpha cos\beta)$--식1  
+$e^{j(\alpha +\beta)} =cos(\alpha +\beta)+jsin(\alpha +\beta)$ --식2  
+식1과 식2는 같다 =실수부와 허수부가 각각 같다  
+$\therefore cos(\alpha +\beta)+jsin(\alpha +\beta)=(cos\alpha cos\beta -sin\alpha cos\beta)+j(cos\alpha sin\beta +sin\alpha cos\beta)$
