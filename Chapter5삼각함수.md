@@ -12,4 +12,7 @@
 # 삼각함수의 기본 성질
 1) 역수관계 및 상제관계
   ### $csc\theta=\frac{1}{sin\theta}, sec\theta=\frac{1}{cos\theta}, tan\theta=\frac{sin\theta}{cos\theta},cot\theta=\frac{cos\theta}{sin\theta}$
-2) 
+2) 제곱 관계
+  ### $sin^{2}\theta + cos^{2}\theta = 1$
+  ### $1+tan^{2}\theta=sec^{2}\theta, --> 1+(\frac{sin\theta}{cos\theta})^{2}=\frac{cos^{2}\theta+sin^{2}\theta}{cos^{2}\theta}=\frac{1}{cos^{2}\theta}=sec^{2}\theta$
+3) 
