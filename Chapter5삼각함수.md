@@ -31,3 +31,6 @@
 
 # 삼각함수의 덧셈 정리
 ## $cos(\alpha+\beta)=cos\alpha cos\beta-sin\alpha sin\beta$
+#### 증명1 오일러 공식  $e^{j\theta }=cos\theta+jsin\theta$  
+$e^{j(\alpha +\beta)} =e^{j\alpha }e^{j\beta }$
+
