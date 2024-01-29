@@ -10,9 +10,15 @@
 ## x,y는 길이가 아닌 좌표 값 - 위치에 따라 음과 양의 값을 가진다.
 
 # 삼각함수의 기본 성질
-1) 역수관계 및 상제관계
+## 1) 역수관계 및 상제관계
   ### $csc\theta=\frac{1}{sin\theta}, sec\theta=\frac{1}{cos\theta}, tan\theta=\frac{sin\theta}{cos\theta},cot\theta=\frac{cos\theta}{sin\theta}$
-2) 제곱 관계
+## 2) 제곱 관계
   ### $sin^{2}\theta + cos^{2}\theta = 1$
   ### $1+tan^{2}\theta=sec^{2}\theta, --> 1+(\frac{sin\theta}{cos\theta})^{2}=\frac{cos^{2}\theta+sin^{2}\theta}{cos^{2}\theta}=\frac{1}{cos^{2}\theta}=sec^{2}\theta$
-3) 
+  ### $1+cot^{2}\theta=csc^{2}\theta, -->1+(\frac{cos\theta}{sin\theta})^{2}=\frac{1}{sin^{2}\theta}=csc^{2}\theta$
+## 3) 주기 공식    
+  ### 임의의 정수 k에 대하여 $sin(2k\pi+\theta)=sin\theta, cos(2k\pi+\theta)=cos\theta, tan(k\pi+\theta)=tan\theta$
+## 4) 각 $\frac{n\pi}{2} \pm \theta$ 의 삼각함수
+  + $sin(-\theta)= -sin\theta$
+  + $cos(-\theta)=cos\theta$
+  + $tan(-\theta)=-tan\theta$
