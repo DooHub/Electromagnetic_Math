@@ -40,4 +40,4 @@ $\therefore cos(\alpha +\beta)+jsin(\alpha +\beta)=(cos\alpha cos\beta -sin\alph
 <img width="834" alt="vector" src="https://github.com/DooHub/Electromagnetic_Math/assets/99073912/f41ba048-1946-4029-972b-febb72bd8af4">
 
 ## $sin(\alpha \pm \beta) = sin\alpha cos\beta \pm sin\beta cos\alpha$
-## $tna(\alpha \pm \beta) = \frac{tan\alpha \pm tan\beta}{1 \mp tan\alpha tan\beta}$
+## $tan(\alpha \pm \beta) = \frac{tan\alpha \pm tan\beta}{1 \mp tan\alpha tan\beta}$
