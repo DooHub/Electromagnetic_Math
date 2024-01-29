@@ -41,3 +41,6 @@ $\therefore cos(\alpha +\beta)+jsin(\alpha +\beta)=(cos\alpha cos\beta -sin\alph
 
 ## $sin(\alpha \pm \beta) = sin\alpha cos\beta \pm sin\beta cos\alpha$
 ## $tan(\alpha \pm \beta) = \frac{tan\alpha \pm tan\beta}{1 \mp tan\alpha tan\beta}$
+
+## 문제  
+### $sin\alpha =\frac{3}{5}, cos\beta=\frac{5}{13}$ 일 때 $tan(\alpha +\beta)$ 을 구하라
