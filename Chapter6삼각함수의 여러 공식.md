@@ -14,3 +14,6 @@
  + $cos^{2}\alpha =\frac{1}{2}(1+cos2\alpha)$
  + $sin^{2}\alpha=\frac{1}{2}(1-cos2\alpha)$
  + $tan^{2}=\frac{1-cos2\alpha}{1+cos2\alpha}$ 위 두 공식 적용
+### 문제1
+ + $cos^{2}22.5^{\circ}$ 계산기 없이 풀어라  
+   $cos^{2}\alpha =\frac{1}{2}(1+cos2\alpha) \rightarrow=\frac{1}{2}(1+cos45^{\circ}=\frac{2+\sqrt{2}}{4})$
