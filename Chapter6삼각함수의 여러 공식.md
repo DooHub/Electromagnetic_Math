@@ -4,3 +4,6 @@
 
 ### $< S_{z} >=\frac{1}{T}\int_{T}^{0}E_{x}H_{y}dt=\frac{1}{2}\frac{E_{xo}^{2}}{\left | \eta  \right |}e^{-2az}cos\theta _{\eta }$
 + 상기 적분과정에서 삼각함수의 공식이 이용 된다.
+
+## 1.배각의 공식
+ + $sin2\alpha = 2sin\alpha cos\alpha \leftarrow sin(\alpah \pm \beta)=sin\alpha cos\beta \pm sin\beta cos\alpha$
