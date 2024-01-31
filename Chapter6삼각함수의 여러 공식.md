@@ -26,4 +26,4 @@
    $cos(75^{\circ} +15^{\circ}),cos(75^{\circ} -15^{\circ})$을 이용하여 계산 한다.  
    $cos(75^{\circ} +15^{\circ})=cos75^{\circ}cos15^{\circ} -sin75^{\circ}sin15^{\circ} ----1)$  
    $cos(75^{\circ} -15^{\circ})=cos75^{\circ}cos15^{\circ} +sin75^{\circ}sin15^{\circ} ----2)$  
-   1)과 2)를 더하마면 $2cos75^{\circ}cos15^{\circ}=cos(90^{\circ}+cos(60^{\circ} =\frac{1}{4}$
+   1)과 2)를 더하면 $2cos75^{\circ}cos15^{\circ}=cos(90^{\circ})+cos(60^{\circ}) =\frac{1}{4}$
