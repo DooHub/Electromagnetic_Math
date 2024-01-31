@@ -17,3 +17,7 @@
 ### 문제1
  + $cos^{2}22.5^{\circ}$ 계산기 없이 풀어라  
    $cos^{2}\alpha =\frac{1}{2}(1+cos2\alpha) \rightarrow=\frac{1}{2}(1+cos45^{\circ})=\frac{2+\sqrt{2}}{4})$
+
+## 3.곱을 합 또는 차로 고치기
+ + $cos(\alpah+\beta)+cos(\alpah-\beta)=2cos\alpha cos\beta$
+ + $sin(\alpah+\beta)+sin(\alpah-\beta)=2sin\alpah cos \beta$
