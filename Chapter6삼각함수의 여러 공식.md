@@ -8,3 +8,4 @@
 ## 1.배각의 공식
  + $sin2\alpha = 2sin\alpha cos\alpha \leftarrow sin(\alpha \pm \beta)=sin\alpha cos\beta \pm sin\beta cos\alpha$
  + $cos2\alpha =2cos^{2}\alpha -1 =1-2sin^{2}\alpha \leftarrow cos(\alpha \pm \beta)=cos\alpha cos\beta \mp sin\alpha cos\beta ( sin^{2}\theta + cos^{2}\theta=1, cos^{2}\theta=1- sin^{2}\theta)$
+ + $tan2\alpha = \frac{2tan\alpha}{1-tan^{2}\alpha} \leftarrow tan(\alpha \pm \beta)=\frac{tan\alpha \pm tan\beta}{1 \mp tan\alpha tan\beta}$
