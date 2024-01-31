@@ -13,3 +13,4 @@
 ## 2.반각의 공식
  + $cos^{2}\alpha =\frac{1}{2}(1+cos2\alpha)$
  + $sin^{2}\alpha=\frac{1}{2}(1-cos2\alpha)$
+ + $tan^{2}=\frac{1-cos2\alpha}{1+cos2\alpha}$ 위 두 공식 적용
