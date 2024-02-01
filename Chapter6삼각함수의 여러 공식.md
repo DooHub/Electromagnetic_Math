@@ -42,7 +42,9 @@ $E_{x}=E_{x0}e^{-\alpha z}cos(\omega t-\beta z), \quad H_{y}=\frac{E_{xo}}{\left
 + $< S_{z} >=\frac{1}{T}\int_{0}^{T}E_{x0}e^{-\alpha z}cos(\omega t-\beta z)\frac{E_{xo}}{\left | \eta  \right |}e^{-\alpha z}cos(\omega t-\beta z-\theta _{\eta})dt$  
   dt에 대해 적분하기 때문에 변수 t를 제외하고는 상수로 취급하여 적분 기호 앞으로 추출 가능  
 - $\frac{1}{T}\frac{E_{xo}^{2}}{\left | \eta  \right |}e^{-2\alpha z}\int_{0}^{T}cos(\omega t-\beta z)cos(\omega t-\beta z-\theta _{\eta})dt$  
-- $cos(\alpha \pm \beta)=cos\alpha cos\beta \mp sin \alpha sin \beta, \quad \frac{1}{2}[ cos(\alpha + \beta)+cos(\alpha - \beta) ] =cos\alpha cos\beta$  위에 적용  
+- $cos(\alpha \pm \beta)=cos\alpha cos\beta \mp sin \alpha sin \beta, \quad \frac{1}{2}[ cos(\alpha + \beta)+cos(\alpha - \beta) ] =cos\alpha cos\beta$  위에 적용
+- $\omega t-\beta z = \alpha, \omega t-\beta z-\theta _{\eta}=\beta$라고 하면
+- $\int_{0}^{T}cos(\omega t-\beta z)cos(\omega t-\beta z-\theta _{\eta})dt=$ $\int _{0}^{T}\frac{1}{2}[cos(2\omega t-2\beta z-\theta _{\eta})+cos(\theta _{\eta})]dt$
 
 
 
