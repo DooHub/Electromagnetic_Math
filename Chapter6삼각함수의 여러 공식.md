@@ -38,5 +38,5 @@
 전기장 $E_{x}$와 자기장 $H_{y}$가 다음과 같이 주어졌다.  
 $E_{x}=E_{x0}e^{-\alpha z}cos(\omega t-\beta z), \quad H_{y}=\frac{E_{xo}}{\left | \eta  \right |}e^{-\alpha z}cos(\omega t-\beta z-\theta )$  
 ![EH_z](https://github.com/DooHub/Electromagnetic_Math/assets/99073912/211e79e6-6d93-421f-bf99-019a4271f51c)  
-이때 +z방향으로 전달되는 평균전력밀도 $< S_{z} >=\frac{1}{T}\int_{T}^{0}E_{x}H_{y}dt$라고 할 때, $< S_{z} >$을 풀이한 결과가 $$와 같이 됨을 보여라.  
+이때 +z방향으로 전달되는 평균전력밀도 $< S_{z} >=\frac{1}{T}\int_{T}^{0}E_{x}H_{y}dt$라고 할 때, $< S_{z} >$을 풀이한 결과가 $\frac{1}{2}\frac{E_{xo}^{2}}{|\eta |}e^{-2\alpha z}cos\theta _{\eta }$와 같이 됨을 보여라.  
 
