@@ -45,6 +45,7 @@ $E_{x}=E_{x0}e^{-\alpha z}cos(\omega t-\beta z), \quad H_{y}=\frac{E_{xo}}{\left
 - $cos(\alpha \pm \beta)=cos\alpha cos\beta \mp sin \alpha sin \beta, \quad \frac{1}{2}[ cos(\alpha + \beta)+cos(\alpha - \beta) ] =cos\alpha cos\beta$  위에 적용
 - $\omega t-\beta z = \alpha, \omega t-\beta z-\theta _{\eta}=\beta$라고 하면
 - $\int_{0}^{T}cos(\omega t-\beta z)cos(\omega t-\beta z-\theta _{\eta})dt=$ $\int _{0}^{T}\frac{1}{2}[cos(2\omega t-2\beta z-\theta _{\eta})+cos(\theta _{\eta})]dt$
+- $\int _{0}^{T}\frac{1}{2}[cos(2\omega t-2\beta z-\theta _{\eta})+cos(\theta _{\eta})]dt = \frac{1}{2}\int _{0}^{T}cos(2\omega t-2\beta z-\theta _{\eta})dt + \frac{1}{2}\int _{0}^{T}cos(\theta _{\eta})]dt$
 
 
 
