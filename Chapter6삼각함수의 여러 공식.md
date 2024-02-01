@@ -36,7 +36,10 @@
     $sin75^{\circ}+sin15^{\circ}=2sin(45^{\circ})cos(30^{\circ})=2\frac{\sqrt{2}}{2}\frac{\sqrt{3}}{2}=\frac{\sqrt{6}}{2}$
 ### 응용문제  
 전기장 $E_{x}$와 자기장 $H_{y}$가 다음과 같이 주어졌다.  
-$E_{x}=E_{x0}e^{-\alpha z}cos(\omega t-\beta z), \quad H_{y}=\frac{E_{xo}}{\left | \eta  \right |}e^{-\alpha z}cos(\omega t-\beta z-\theta )$  
+$E_{x}=E_{x0}e^{-\alpha z}cos(\omega t-\beta z), \quad H_{y}=\frac{E_{xo}}{\left | \eta  \right |}e^{-\alpha z}cos(\omega t-\beta z-\theta_{\eta} )$  
 ![EH_z](https://github.com/DooHub/Electromagnetic_Math/assets/99073912/211e79e6-6d93-421f-bf99-019a4271f51c)  
 이때 +z방향으로 전달되는 평균전력밀도 $< S_{z} >=\frac{1}{T}\int_{T}^{0}E_{x}H_{y}dt$라고 할 때, $< S_{z} >$을 풀이한 결과가 $\frac{1}{2}\frac{E_{xo}^{2}}{|\eta |}e^{-2\alpha z}cos\theta _{\eta }$와 같이 됨을 보여라.  
+  + $< S_{z} >=\frac{1}{T}\int_{T}^{0}E_{x0}e^{-\alpha z}cos(\omega t-\beta z)\frac{E_{xo}}{\left | \eta  \right |}e^{-\alpha z}cos(\omega t-\beta z-\theta _{\eta})dtt$  
+    dt에 대해 적분하기 때문에 변수 t를 제외하고는 상수로 취급하여 적분 기호 앞으로 추출 가능  
+    $$
 
