@@ -35,4 +35,5 @@
     1)과 2) 더하고 $\alpha=40^{\circ},\beta=15^{\circ}$ 설정  
     $sin75^{\circ}+sin15^{\circ}=2sin(45^{\circ})cos(30^{\circ})=2\frac{\sqrt{2}}{2}\frac{\sqrt{3}}{2}=\frac{\sqrt{6}}{2}$
 ### 응용문제  
-전기장 $E_{x}$와 자기장$H_{y}$가 다음과 같이 주어졌다.  
+전기장 $E_{x}$와 자기장 $H_{y}$가 다음과 같이 주어졌다.  
+$E_{x}=E_{x0}e^{-\alpha z}cos(\omega t-\beta z), \quad H_{y}=\frac{E_{xo}}{\left | \eta  \right |}e^{-\alpha z}cos(\omega t-\beta z-\theta )$  
