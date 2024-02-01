@@ -32,5 +32,5 @@
     $75^{\circ}=45^{\circ}+30^{\circ},15^{\circ}=45^{\circ}-30^{\circ}$아는 각으로 변경, 배각 공식에 적용  
     $sin(\alpha+\beta)=sin(\alpha)cos(\beta)+sin(\beta)cos(\alpha)\rightarrow 1)$  
     $sin(\alpha-\beta)=sin(\alpha)cos(\beta)-sin(\beta)cos(\alpha)\rightarrow 2)$
-    1)과 2) 더하고 $\alpha=40^{\circ},\beta=15^{circ}$ 설정  
-    $sin75^{\circ}+sin15^{\circ}=2sin(45^{\circ})cos(30^{\circ})=2*\frac{\sqrt{2}{2}\frac{\sqrt{3}}{2}$
+    1)과 2) 더하고 $\alpha=40^{\circ},\beta=15^{\circ}$ 설정  
+    $sin75^{\circ}+sin15^{\circ}=2sin(45^{\circ})cos(30^{\circ})=2\frac{\sqrt{2}}{2}\frac{\sqrt{3}}{2}=\frac{\sqrt{6}}{2}$
