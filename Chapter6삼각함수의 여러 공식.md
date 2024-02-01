@@ -27,3 +27,6 @@
    $cos(75^{\circ} +15^{\circ})=cos75^{\circ}cos15^{\circ} -sin75^{\circ}sin15^{\circ} ----1)$  
    $cos(75^{\circ} -15^{\circ})=cos75^{\circ}cos15^{\circ} +sin75^{\circ}sin15^{\circ} ----2)$  
    1)과 2)를 더하면 $2cos75^{\circ}cos15^{\circ}=cos(90^{\circ})+cos(60^{\circ}) =\frac{1}{4}$
+### 문제3
+  + $sin75^{\circ}+sin15^{\circ}$계산기 없이 풀어라  
+    $75^{\circ}=45^{\circ}+30^{\circ},15^{\circ}=45^{\circ}-30^{\circ}$
