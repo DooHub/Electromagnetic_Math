@@ -29,4 +29,8 @@
    1)과 2)를 더하면 $2cos75^{\circ}cos15^{\circ}=cos(90^{\circ})+cos(60^{\circ}) =\frac{1}{4}$
 ### 문제3
   + $sin75^{\circ}+sin15^{\circ}$계산기 없이 풀어라  
-    $75^{\circ}=45^{\circ}+30^{\circ},15^{\circ}=45^{\circ}-30^{\circ}$
+    $75^{\circ}=45^{\circ}+30^{\circ},15^{\circ}=45^{\circ}-30^{\circ}$아는 각으로 변경, 배각 공식에 적용  
+    $sin(\alpah+\beta)=sin(\alpha)cos(\beta)+sin(\beta)cos(\alpha)\rightarrow 1)$  
+    $sin(\alpah+\beta)=sin(\alpha)cos(\beta)-sin(\beta)cos(\alpha)\rightarrow 2)$
+    1)과 2) 더하고 $\alpha=40^{\circ},\beta=15^{circ}$ 설정  
+    
