@@ -41,11 +41,14 @@ $E_{x}=E_{x0}e^{-\alpha z}cos(\omega t-\beta z), \quad H_{y}=\frac{E_{xo}}{\left
 이때 +z방향으로 전달되는 평균전력밀도 $< S_{z} >=\frac{1}{T}\int_{0}^{T}E_{x}H_{y}dt$라고 할 때, $< S_{z} >$을 풀이한 결과가 $\frac{1}{2}\frac{E_{xo}^{2}}{|\eta |}e^{-2\alpha z}cos\theta _{\eta }$와 같이 됨을 보여라.  
 + $< S_{z} >=\frac{1}{T}\int_{0}^{T}E_{x0}e^{-\alpha z}cos(\omega t-\beta z)\frac{E_{xo}}{\left | \eta  \right |}e^{-\alpha z}cos(\omega t-\beta z-\theta _{\eta})dt$  
   dt에 대해 적분하기 때문에 변수 t를 제외하고는 상수로 취급하여 적분 기호 앞으로 추출 가능  
-- $\frac{1}{T}\frac{E_{xo}^{2}}{\left | \eta  \right |}e^{-2\alpha z}\int_{0}^{T}cos(\omega t-\beta z)cos(\omega t-\beta z-\theta _{\eta})dt$  
+- $\frac{1}{T}\frac{E_{xo}^{2}}{\left | \eta  \right |}e^{-2\alpha z}\int_{0}^{T}cos(\omega t-\beta z)cos(\omega t-\beta z-\theta _{\eta})dt$  ---1)
 - $cos(\alpha \pm \beta)=cos\alpha cos\beta \mp sin \alpha sin \beta, \quad \frac{1}{2}[ cos(\alpha + \beta)+cos(\alpha - \beta) ] =cos\alpha cos\beta$  위에 적용
 - $\omega t-\beta z = \alpha, \omega t-\beta z-\theta _{\eta}=\beta$라고 하면
-- $\int_{0}^{T}cos(\omega t-\beta z)cos(\omega t-\beta z-\theta _{\eta})dt=$ $\int _{0}^{T}\frac{1}{2}[cos(2\omega t-2\beta z-\theta _{\eta})+cos(\theta _{\eta})]dt$
+- $\int_{0}^{T}cos(\omega t-\beta z)cos(\omega t-\beta z-\theta _{\eta})dt=$ $\int _{0}^{T}\frac{1}{2}[cos(2\omega t-2\beta z-\theta _{\eta})+cos(\theta _{\eta})]dt$ 
 - $\int _{0}^{T}\frac{1}{2}[cos(2\omega t-2\beta z-\theta _{\eta})+cos(\theta _{\eta})]dt = \frac{1}{2}\int _{0}^{T}cos(2\omega t-2\beta z-\theta _{\eta})dt + \frac{1}{2}\int _{0}^{T}cos(\theta _{\eta})]dt$
+- $\frac{1}{2}\int _{0}^{T}cos(2\omega t-2\beta z-\theta _{\eta})dt$는 cos(\omega t)가 대비 주기가 $\frac{1}{2}$ 줄어들어 T 동안 두번 반복 된다. 하지만 결국 주기를 적분하기 때문에 값은 0 이 된다.
+- $\frac{1}{2}\int _{0}^{T}cos(\theta _{\eta})]dt =\frac{T}{2}cos(\theta _{\eta})]dt$가 된다.
+- $\therefore \int_{0}^{T}cos(\omega t-\beta z)cos(\omega t-\beta z-\theta _{\eta})dt =\frac{T}{2}cos(\theta _{\eta})]dt$ 가 되고 이를 1)에 대입 하면, $\frac{1}{2}\frac{E _{xo}^{2}}{|\eta |}e^{-2\alpha z}cos\theta _{\eta }$ 구할 수 있다
 
 
 
