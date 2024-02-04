@@ -35,4 +35,6 @@
 
 ## 예제-3 발산(divergence)
 ### 구좌표계에서 $\vec{D}=2rsin\theta cos\phi\hat{a} _{r}+rcos\theta cos\phi \hat{a} _{\theta}-rsin\phi \hat{a} _{\phi}$
+![구좌표](https://github.com/DooHub/Electromagnetic_Math/assets/99073912/7a71e37a-e57a-41d5-a747-30fb618ed1c1)
 ### $\triangledown \cdot \vec{D}=\frac{1}{r^{2}}\frac{\partial }{\partial r}(r^{2}D_{r})+\frac{1}{rsin\theta}\frac{\partial }{\partial \theta}(sin\theta D_{\theta})+\frac{1}{rsin\theta}\frac{\partial D_{\phi}}{\partial \phi}$
+### 여기서 $\frac{\partial }{\partial \theta}(sin\theta D_{\theta})$ 를 계산해 보자
