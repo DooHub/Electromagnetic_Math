@@ -30,4 +30,4 @@
 
 + ### $y'=xtan\theta, \quad x^{2}+y'{2}=x^{2}(1+tan^{2}\theta)=x^{2}sec^{2},\quad dy'=xsec^{2}\theta$ 된다.
 + ### 예제-1과 같이 y'에 대한 변수를 $\theta$로 변환 하면 $-\infty \rightarrow-\frac{\pi}{2},\infty \rightarrow \frac{\pi}{2}$
-+ ### $E_{x} = \frac{\rho_{s}x}{2\pi \epsilon_{0}}\int_{-\infty}^{\infty}\frac{1}{x^{2}+y'^{2}}dy'=\frac{\rho_{s}x}{2\pi \epsilon_{0}}\int _{-\pi}^{\pi}\frac{xsec^{2}}{x^{2}sec^{2}}d \theta$
++ ### $E_{x} = \frac{\rho_{s}x}{2\pi \epsilon_{0}}\int_{-\infty}^{\infty}\frac{1}{x^{2}+y'^{2}}dy'=\frac{\rho_{s}x}{2\pi \epsilon_{0}}\int_{-\pi}^{\pi}\frac{xsec^{2}}{x^{2}sec^{2}}d \theta=\frac{\rho_{s}}{2\pi \epsilon_{0}}\int _{-\pi}^{\pi}d \theta=\frac{\rho _{s}}{2 \epsilon _{0}}$
