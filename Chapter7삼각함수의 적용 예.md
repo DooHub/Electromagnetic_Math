@@ -47,4 +47,5 @@
 ### $\triangledown \cdot \vec{D}=\frac{1}{r^{2}}\frac{\partial }{\partial r}(r^{2}D_{r})+\frac{1}{rsin\theta}\frac{\partial }{\partial \theta}(sin\theta D_{\theta})+\frac{1}{rsin\theta}\frac{\partial D_{\phi}}{\partial \phi}=0$ 가 0이 됨을 보여라 
 
 + ### $\frac{\partial }{\partial r}(r^{2}D_{r})=\frac{\partial }{\partial r}(r^{2}sin\theta sin\phi\)=2rsin\theta sin\phi\$ ---- 1)
-+ ### $\frac{\partial }{\partial \theta}(sin\theta D_{\theta})=frac{\partial }{\partial \theta}(sin\theta cos \theta sin \phi)=sin \phi(cos^{2}\theta-sin^{2}\theta)$ ----2)
++ ### $\frac{\partial }{\partial \theta}(sin\theta D_{\theta})=\frac{\partial }{\partial \theta}(sin\theta cos \theta sin \phi)=sin \phi(cos^{2}\theta-sin^{2}\theta)$ ----2)
++ ### $\frac{\partial D_{\phi}}{\partial \phi}=\frac{\partial cos \phi}{\partial \phi}=sin \phi$  ---- 3)
