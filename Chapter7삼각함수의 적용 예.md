@@ -16,3 +16,10 @@
  + ### $\int_{-\infty }^{\infty }dz'$을 $d\alpha$로 변환하면 $-\infty \rightarrow-\frac{\pi}{2},\infty \rightarrow \frac{\pi}{2}$ 된다.
  + ### $A=\int _{-\infty }^{\infty }\frac{1}{(\rho ^{2}+z^{'2})^{\frac{3}{2}}}dz'=\int _{-\frac{\pi}{2}}^{\frac{\pi}{2}}\frac{cos \alpha}{\rho ^{2}}d \alpha =\frac{1}{\rho ^{2}}sin\alpha | _{-\frac{\pi}{2}}^{\frac{\pi}{2}} =\frac{2}{\rho^{2}}$
  + ### $\frac{\rho_{L}\rho}{4\pi \epsilon _{0}}\int _{-\infty }^{\infty }\frac{1}{(\rho ^{2}+z^{'2})^{\frac{3}{2}}}dz'=\frac{\rho _{L}\rho}{4\pi \epsilon _{0}}\frac{2}{\rho^{2}}=\frac{\rho _{L}\rho}{2\phi \epsilon _{0}}$
+
+
+
+## 예제-2 면전하에 의한 전계
+
+### y평편에 면전하가 있을 때 점 P에서의 전기장의 세기는 x 방항만 있다. 
+### 미소면적 dy'(연두색 선 사이)에서 점P에서의 세기를 구하고 이 미소먼적을 y축의따라 이동하면서 점P에 인가 되는 전기장의 합을 구한다. 
