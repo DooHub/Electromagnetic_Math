@@ -57,4 +57,12 @@
 ## 예제-5 전기장이 가진 에너지
 ### 전기자이 가진 에너지를 푸는 과정에 $W_{E}=\frac{\varepsilon _{o}}{2}\int _{2\times10^{-3} }^{3\times10^{-3}}\frac{1}{r^{4}}\int _{0^{\circ}}^{90^{\circ}}(600^{2}cos^{2}\theta +300^{2}sin^{2}\theta)sin \theta d \theta\int _{0}^{\frac{\pi }{2}}d \phi$ 를 폴어야 한다.
 ### 이중 $B\equiv \int_{0^{\circ}}^{90^{\circ}}(600^{2}cos^{2}\theta+300^{2}sin^{2}\theta)sin\theta d \theta$ 를 계산하라
-+ ### $\int_{0^{\circ}}^{90^{\circ}}(600^{2}cos^{2}\theta+300^{2}sin^{2}\theta)sin\theta d \theta =600^{2}\int_{0^{\circ}}^{90^{\circ}}cos^{2}\theta d \theta+300^{2}\int_{0^{\circ}}^{90^{\circ}}sin^{2}\theta sin\theta d \theta$
++ ### $\int_{0^{\circ}}^{90^{\circ}}(600^{2}cos^{2}\theta+300^{2}sin^{2}\theta)sin\theta d \theta =600^{2}\int_{0^{\circ}}^{90^{\circ}}cos^{2}\theta sin \theta d \theta+300^{2}\int_{0^{\circ}}^{90^{\circ}}sin^{2}\theta sin\theta d \theta$
++ ### $u=cos\theta, du=-sin\theta d \theta, \quad \theta=0^{\circ}\rightarrow u=1,\theta=90^{\circ}\rightarrow u=0$
++ ### u에 대해 재 정리 하면
++ ### $600^{2}\int_{0^{\circ}}^{90^{\circ}}cos^{2}\theta sin \theta d \theta=600^{2}\int_{1}^{0}-u^{2}du=600^{2}\int_{0}^{1}u^{2}du=600^{2}\frac{1}{3}u^{3}|_{0}^{1}=\frac{600^{2}}{3}$    ---1)
++ ### $300^{2}\int_{0^{\circ}}^{90^{\circ}}sin^{2}\theta sin\theta d \theta=300^{2}\int_{0^{\circ}}^{90^{\circ}}(1-cos^{2}\theta) sin\theta d \theta=300^{2}\int_{0^{\circ}}^{90^{\circ}} sin \theta d \theta -300^{2}\int_{0^{\circ}}^{90^{\circ}}cos^{2}\theta sin\theta d \theta$
++ ### $300^{2}\int_{0^{\circ}}^{90^{\circ}} sin \theta d \theta=300^{2}(-cos \theta | _{0^{\circ}}^{90^{\circ}})=300^{2}$
++ ### $-300^{2}\int_{0^{\circ}}^{90^{\circ}}cos^{2}\theta sin\theta d \theta$ 의 경우 1)의 값을 활용 $-\frac{300^{2}}{3}$
++ ### $300^{2}\int_{0^{\circ}}^{90^{\circ}}sin^{2}\theta sin\theta d \theta =\frac{2\times 300^{2}}{3}$
++ ### $\frac{600^{2}}{3} +\frac{2 \times 300^{2}}{3}=180 \times 10^{3}$
