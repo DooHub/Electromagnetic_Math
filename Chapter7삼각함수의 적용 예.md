@@ -43,4 +43,5 @@
 + ### $\frac{\partial }{\partial \theta}(\frac{sin 2\theta}{2})=\frac{2cos 2\theta}{2}=cos 2\theta=cos^{2}\theta-sin^{2}\theta$
 
 ## 예제-4 발산(divergence)
-### 구좌표계에서 $\vec{D}=sin\theta sin\phi\hat{a} _{r}+cos\theta sin\phi \hat{a} _{\theta}-cos\phi \hat{a} _{\phi}$
+### 구좌표계에서 $\vec{D}=sin\theta sin\phi\hat{a} _{r}+cos\theta sin\phi \hat{a} _{\theta}-cos\phi \hat{a} _{\phi}$ 로 주어졌다.
+### $\triangledown \cdot \vec{D}=\frac{1}{r^{2}}\frac{\partial }{\partial r}(r^{2}D_{r})+\frac{1}{rsin\theta}\frac{\partial }{\partial \theta}(sin\theta D_{\theta})+\frac{1}{rsin\theta}\frac{\partial D_{\phi}}{\partial \phi}=0$ 가 0이 됨을 보여라 
