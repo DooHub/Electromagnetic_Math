@@ -49,3 +49,7 @@
 + ### $\frac{\partial }{\partial r}(r^{2}D_{r})=\frac{\partial }{\partial r}(r^{2}sin\theta sin\phi\)=2rsin\theta sin\phi\$ ---- 1)
 + ### $\frac{\partial }{\partial \theta}(sin\theta D_{\theta})=\frac{\partial }{\partial \theta}(sin\theta cos \theta sin \phi)=sin \phi(cos^{2}\theta-sin^{2}\theta)$ ----2)
 + ### $\frac{\partial D_{\phi}}{\partial \phi}=\frac{\partial cos \phi}{\partial \phi}=sin \phi$  ---- 3)
++ ### 1),2)와 3)을 적용 하면 $\triangledown \cdot \vec{D}=\frac{1}{r^{2}}(2rsin\theta sin\phi\)+\frac{1}{rsin\theta}sin \phi(cos^{2}\theta-sin^{2}\theta)+\frac{1}{rsin\theta}sin \phi$
++ ### $\triangledown \cdot \vec{D}=\frac{sin \phi}{r}[2sin \theta +\frac{1}{sin \theta}(cos^{2}\theta-sin^{2}\theta)-\frac{1}{sin \theta}]=\frac{sin \phi}{r}\frac{2sin^{2}\theta+cos^{2}\theta-sin^{2}\theta -1 }{sin \theta}$
++ ### $cos^{2}\theta=1-sin^{2}\theta$을 적용 하면, $2sin^{2}\theta+cos^{2}\theta-sin^{2}\theta -1=2sin^{2}\theta+1-sin^{2}\theta-sin^{2}\theta-1=0$
++ + ### $\triangledown \cdot \vec{D}=\frac{sin \phi}{r}[0]=0$
