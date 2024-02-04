@@ -38,3 +38,5 @@
 ![구좌표](https://github.com/DooHub/Electromagnetic_Math/assets/99073912/7a71e37a-e57a-41d5-a747-30fb618ed1c1)
 ### $\triangledown \cdot \vec{D}=\frac{1}{r^{2}}\frac{\partial }{\partial r}(r^{2}D_{r})+\frac{1}{rsin\theta}\frac{\partial }{\partial \theta}(sin\theta D_{\theta})+\frac{1}{rsin\theta}\frac{\partial D_{\phi}}{\partial \phi}$
 ### 여기서 $\frac{\partial }{\partial \theta}(sin\theta D_{\theta})$ 를 계산해 보자
+### 필요 개념 $sin(a+b)=sin(a)cos(b)+sin(b)cos(a),\quad cos(a+b)=cos(a)cos(b)-sin(a)sin(b)$
++ ### $D_{\theta}=rcos\theta cos\phi, \quad \frac{\partial }{\partial \theta}(sin\theta D_{\theta})= \frac{\partial }{\partial \theta}(sin\theta rcos\theta cos\phi)=$
