@@ -9,5 +9,6 @@
 ### 필요 개념 $1+tan^{2}\alpha =sec^{2}\alpha,\quad sec\alpha = \frac{1}{cos\alpha},\quad \int cos\alpha d\alpha = sin\alpha +C $
 
  + $\int_{-\infty }^{\infty }\frac{\rho _{L}\rho}{4\pi \varepsilon _{0}(\rho ^{2}+z^{'2})^{\frac{3}{2}}}dz'$에서 변수는 z' 이므로 나머지는 상수처리
- + $\frac{\rho_{L}\rho}{4\pi \epsilon _{0}}\int _{-\infty }^{\infty }\frac{1}{(\rho ^{2}+z^{'2})^{\frac{3}{2}}}dz',\quad$ 정리 가능하며 $\int _{-\infty }^{\infty }\frac{1}{(\rho ^{2}+z^{'2})^{\frac{3}{2}}}dz'\quad$ 를 A로 보고 A에 대해서 처리
- + 
+ + $\frac{\rho_{L}\rho}{4\pi \epsilon _{0}}\int _{-\infty }^{\infty }\frac{1}{(\rho ^{2}+z^{'2})^{\frac{3}{2}}}dz'$, 정리 가능하며 $\int _{-\infty }^{\infty }\frac{1}{(\rho ^{2}+z^{'2})^{\frac{3}{2}}}dz'$, 를 A로 보고 A에 대해서 처리
+ + 좌표 그림에 따라 z축 위의 임의점 z'은 $z'=\rho tan\alpha$ 나타 낼 수 있고 이를 A에 대입 하여 계산을 진행한다.
+ + $\rho ^{2}+z^{'2}=\rho ^{2}(1+tan^{2}\alpha)=\rho ^{2}sec^{2}\alpha, \quad dz'=\rho sec^{2}\alpha d\alpha$
