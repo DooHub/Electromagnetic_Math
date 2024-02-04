@@ -14,3 +14,4 @@
  + $\rho ^{2}+z^{'2}=\rho ^{2}(1+tan^{2}\alpha)=\rho ^{2}sec^{2}\alpha, \quad dz'=\rho sec^{2}\alpha d\alpha$
  + $\frac{1}{(\rho ^{2}+z^{'2})^{\frac{3}{2}}}dz'=\frac{\rho sec^{2}\alpha}{\rho ^{3}sec^{3}\alpha}d\alpha=\frac{1}{\rho ^{2}sec\alpha}d \alpha=\frac{cos \alpha}{\rho ^{2}}d \alpha$
  + $\int_{-\infty }^{\infty }dz'$을 $d\alpha$로 변환하면 $-\infty \rightarrow-\frac{\pi}{2},\infty \rightarrow \frac{\pi}{2}$ 된다.
+ + $A=\int _{-\infty }^{\infty }\frac{1}{(\rho ^{2}+z^{'2})^{\frac{3}{2}}}dz'=\int _{-\frac{\pi}{2}}^{\frac{\pi}{2}}\frac{cos \alpha}{\rho ^{2}}d \alpha$
