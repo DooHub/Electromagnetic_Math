@@ -13,3 +13,4 @@
  + 좌표 그림에 따라 z축 위의 임의점 z'은 $z'=\rho tan\alpha$ 나타 낼 수 있고 이를 A에 대입 하여 계산을 진행한다.
  + $\rho ^{2}+z^{'2}=\rho ^{2}(1+tan^{2}\alpha)=\rho ^{2}sec^{2}\alpha, \quad dz'=\rho sec^{2}\alpha d\alpha$
  + $\frac{1}{(\rho ^{2}+z^{'2})^{\frac{3}{2}}}dz'=\frac{\rho sec^{2}\alpha}{\rho ^{3}sec^{3}\alpha}d\alpha=\frac{1}{\rho ^{2}sec\alpha}d \alpha=\frac{cos \alpha}{\rho ^{2}}d \alpha$
+ + $\int_{-\infty }^{\infty }dz'$을 $d\alpha$로 변환하면 $-\infty \rightarrow-\frac{\pi}{2},\infty \rightarrow \frac{\pi}{2}$ 된다.
