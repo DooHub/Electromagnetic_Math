@@ -57,3 +57,4 @@
 ## 예제-5 전기장이 가진 에너지
 ### 전기자이 가진 에너지를 푸는 과정에 $W_{E}=\frac{\varepsilon _{o}}{2}\int _{2\times10^{-3} }^{3\times10^{-3}}\frac{1}{r^{4}}\int _{0^{\circ}}^{90^{\circ}}(600^{2}cos^{2}\theta +300^{2}sin^{2}\theta)sin \theta d \theta\int _{0}^{\frac{\pi }{2}}d \phi$ 를 폴어야 한다.
 ### 이중 $B\equiv \int_{0^{\circ}}^{90^{\circ}}(600^{2}cos^{2}\theta+300^{2}sin^{2}\theta)sin\theta d \theta$ 를 계산하라
++ ### $\int_{0^{\circ}}^{90^{\circ}}(600^{2}cos^{2}\theta+300^{2}sin^{2}\theta)sin\theta d \theta =600^{2}\int_{0^{\circ}}^{90^{\circ}}cos^{2}\theta d \theta+300^{2}\int_{0^{\circ}}^{90^{\circ}}sin^{2}\thetasin\theta d \theta$
