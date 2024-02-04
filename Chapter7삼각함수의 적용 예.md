@@ -23,3 +23,9 @@
 
 ### y평편에 면전하가 있을 때 점 P에서의 전기장의 세기는 x 방항만 있다. 
 ### 미소면적 dy'(연두색 선 사이)에서 점P에서의 세기를 구하고 이 미소먼적을 y축의따라 이동하면서 점P에 인가 되는 전기장의 합을 구한다. 
+![면전하](https://github.com/DooHub/Electromagnetic_Math/assets/99073912/17794d05-c639-4d8b-bd7d-3ba169302469)
+
+### $E_{x}$는 $E_{x} = \frac{\rho_{s}x}{2\pi \epsilon_{0}}\int _{-\infty}^{\infty}\frac{1}{x^{2}+y'^{2}}dy'$을 풀어야한다.
+### Y축의 A와c 사이를 y'라 하고 점(A,P,C)을 연결할 때 사이각을 $\theta$라고 한다. 
+
++ ### $y'=xtan\theta, \quad dy'=xsec^{2}\theta$ 된다. 예제-1과 같이 y'에 대한 변수를 $\theta$로 변환 하면 $-\infty \rightarrow-\frac{\pi}{2},\infty \rightarrow \frac{\pi}{2}$
