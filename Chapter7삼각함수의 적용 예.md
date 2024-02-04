@@ -28,4 +28,6 @@
 ### $E_{x}$는 $E_{x} = \frac{\rho_{s}x}{2\pi \epsilon_{0}}\int _{-\infty}^{\infty}\frac{1}{x^{2}+y'^{2}}dy'$을 풀어야한다.
 ### Y축의 A와c 사이를 y'라 하고 점(A,P,C)을 연결할 때 사이각을 $\theta$라고 한다. 
 
-+ ### $y'=xtan\theta, \quad dy'=xsec^{2}\theta$ 된다. 예제-1과 같이 y'에 대한 변수를 $\theta$로 변환 하면 $-\infty \rightarrow-\frac{\pi}{2},\infty \rightarrow \frac{\pi}{2}$
++ ### $y'=xtan\theta, \quad x^{2}+y'{2}=x^{2}(1+tan^{2}\theta)=x^{2}sec^{2},\quad dy'=xsec^{2}\theta$ 된다.
++ ### 예제-1과 같이 y'에 대한 변수를 $\theta$로 변환 하면 $-\infty \rightarrow-\frac{\pi}{2},\infty \rightarrow \frac{\pi}{2}$
++ ### $E_{x} = \frac{\rho_{s}x}{2\pi \epsilon_{0}}\int_{-\infty}^{\infty}\frac{1}{x^{2}+y'^{2}}dy'=\frac{\rho_{s}x}{2\pi \epsilon_{0}}\int _{-\pi}^{\pi}\frac{xsec^{2}}{x^{2}sec^{2}}d \theta$
