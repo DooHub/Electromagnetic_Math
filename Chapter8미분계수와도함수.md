@@ -8,3 +8,4 @@
 ## 2) 미분계수
   ### 일반적으로 함수 y=f(x)에 대한 x의 값이 a에서 a+h까지 변할 때의 평균 변화율 : $\frac{\Delta y}{\Delta x}=\frac{f(a+h)-f(a)}{(a+h)-a}=\frac{f(a+h)-f(a)}{(h}$
   ### h가 0에 한없이 가까워질 때의 평균변화율의 극한 값 : $\lim_{h\rightarrow 0}\frac{\Delta y}{\Delta x}=\frac{f(a+h)-f(a)}{h}$
+  ### 이 극한값을 y=f(x)의 x=a에서의 미분계수 또는 순간 변화율이라고 하고, f'(a)로 나타낸다. x=a에서 접선의 기울기와 같다.
