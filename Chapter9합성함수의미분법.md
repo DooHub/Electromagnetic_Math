@@ -13,3 +13,7 @@
 ### $y=u^{n}, u=f(x)$라 하면 $\frac{dy}{dx}=\frac{dy}{du}\frac{du}{dx}=nu^{n-1}f(x)'=nf(x)^{n-1}f(x)'$
 ### 예제-2 $y=cos(x^{2}+1)$ 를 미분하라
 + ### $y=-2xsin(x^{2}+1)$
+
+### 응용예제-1
+### 원통좌표계에서 전위가 $V=\frac{100}{z^{2}+1}\rho cos\phi$ 주어진다. 임의의 점에서의 전기장의 세기는
+### $\vec{E}=-(\frac{\partial V}{\partial \rho }\hat{a_{\rho }}+\frac{1}{\rho }\frac{\partial V}{\partial \phi }\hat{a_{\phi }}+\frac{\partial V}{\partial z}\hat{a_{z}})$ 이다. $E_{z}$를 구하여라
