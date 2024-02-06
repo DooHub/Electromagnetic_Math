@@ -20,3 +20,7 @@
 + ### $E_{z}=-\frac{\partial V}{\partial z}=\frac{\partial }{\partial z}(\frac{100}{z^{2}+1}\rho cos\phi)=100\rho cos\phi\frac{\partial }{\partial z}(\frac{1}{z^{2}+1})=100\rho cos\phi\frac{\partial }{\partial z}({z^{2}+1})^{-1}$
 + ### $\frac{\partial }{\partial z}({z^{2}+1})^{-1}=\frac{d}{dz}({z^{2}+1})^{-1}=-2z(z^{2}+1)^{-2}$
 + ### $E_{z}=\frac{200z\rho cos\phi}{(z^{2}+1)^{2}}$
+### ________________________________________________________________
+
+### 응용예제-2
+### 자가 $H_{x}=0.15cos[3.12(3 \times 10^{8}t-y)]$ 일 때 변위 전류는 $\vec{J_{d}}=-\frac{\partial H_{x}}{\partial y}\hat{a_{z}}$로 나타난다. $\vec{J_{d}}$ 를 구하라
