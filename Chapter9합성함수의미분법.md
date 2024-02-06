@@ -11,3 +11,5 @@
 ### $\frac{d}{dx}{f(x)}^{n}=n{f(x)}^{n-1}f(x)'$
 ### (증명) 
 ### $y=u^{n}, u=f(x)$라 하면 $\frac{dy}{dx}=\frac{dy}{du}\frac{du}{dx}=nu^{n-1}f(x)'=nf(x)^{n-1}f(x)'$
+### 예제-2 $y=cos(x^{2}+1)$ 를 미분하라
++ ### $y=-2xsin(x^{2}+1)$
