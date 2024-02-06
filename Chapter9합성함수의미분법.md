@@ -24,3 +24,6 @@
 
 ### 응용예제-2
 ### 자가 $H_{x}=0.15cos[3.12(3 \times 10^{8}t-y)]$ 일 때 변위 전류는 $\vec{J_{d}}=-\frac{\partial H_{x}}{\partial y}\hat{a_{z}}$로 나타난다. $\vec{J_{d}}$ 를 구하라
++ ### $\frac{\partial H_{x}}{\partial y}=\frac{\partial}{\partial y} 0.15cos[3.12(3 \times 10^{8}t-y)] =0.15\frac{\partial}{\partial y} cos[3.12(3 \times 10^{8}t-y)]$
+  ### $\quad \quad=0.15\times -sin[3.12(3 \times 10^{8}t-y)]\times -3.12=468 \times 10^{-3}sin[3.12(3 \times 10^{8}t-y)]$
++ ### $\vec{J_{d}}=-\frac{\partial H_{x}}{\partial y}\hat{a_{z}}=-468 \times 10^{-3}sin[3.12(3 \times 10^{8}t-y)]\hat{a_{z}}$
