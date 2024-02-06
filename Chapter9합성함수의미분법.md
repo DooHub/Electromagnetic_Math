@@ -9,4 +9,5 @@
 
 ## 다항함수의 제곱승을 미분 하는 방법
 ### $\frac{d}{dx}{f(x)}^{n}=n{f(x)}^{n-1}f(x)'$
-### (증명) $y=u^{n}, u=f(x)$라 하면 $\frac{dy}{dx}=\frac{dy}{du}\frac{du}{dx}=nu^{n-1}f(x)'=nf(x)^{n-1}f(x)'$
+### (증명) 
+### $y=u^{n}, u=f(x)$라 하면 $\frac{dy}{dx}=\frac{dy}{du}\frac{du}{dx}=nu^{n-1}f(x)'=nf(x)^{n-1}f(x)'$
