@@ -19,4 +19,4 @@
 ### $\vec{E}=-(\frac{\partial V}{\partial \rho }\hat{a_{\rho }}+\frac{1}{\rho }\frac{\partial V}{\partial \phi }\hat{a_{\phi }}+\frac{\partial V}{\partial z}\hat{a_{z}})$ 이다. $E_{z}$를 구하여라
 + ### $E_{z}=-\frac{\partial V}{\partial z}=\frac{\partial }{\partial z}(\frac{100}{z^{2}+1}\rho cos\phi)=100\rho cos\phi\frac{\partial }{\partial z}(\frac{1}{z^{2}+1})=100\rho cos\phi\frac{\partial }{\partial z}({z^{2}+1})^{-1}$
 + ### $\frac{\partial }{\partial z}({z^{2}+1})^{-1}=\frac{d}{dz}({z^{2}+1})^{-1}=-2z(z^{2}+1)^{-2}$
-+ + ### $E_{z}=\frac{200\rho cos\phi}{(z^{2}+1)^{2}}$
++ ### $E_{z}=\frac{200z\rho cos\phi}{(z^{2}+1)^{2}}$
