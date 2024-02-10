@@ -29,3 +29,11 @@
 ## 증명 4
 ### $(a^{x})'=a^{x}lna (a>0, a\neq 1)$을 이용하여 $(e^{x})'=e^{x}$ 임을 보이자.
 + ### $(a^{x})'=a^{x}lna, \ a \to e, \quad (e^{x})'=e^{x}lne=e^{x}$ 
+
+## 응용문제
+### $\triangledown \times \vec{E} = -\frac{\partial \vec{B}}{\partial t}$는 맥스웰의 네 개 방정식 중의 하나이다. 원통좌표계에서 축방향(z방향)의  
+### 자기장의 시간변화에 의해 축 주위를 도는 전기장이 만들어진다. 이 부분을 다시 쓰면 다음과 같다.
+### $(\triangledown \times\vec{E}) _{z}=\frac{1}{ \rho} \frac{\partial (\rho E _{\phi})}{\partial \rho}=-\frac{\partial B _{z}}{\partial t}$
+### 자기장은 다음과 같다.
+### $B_{z}=B_{0}e^{kt}$
+### $E_{\phi}$를 구하여라. 단, 적분과정에서 적분상수는 0이다.
