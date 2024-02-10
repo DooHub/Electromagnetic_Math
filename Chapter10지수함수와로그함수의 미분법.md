@@ -14,3 +14,8 @@
 ### $y=ln2x$을 미분 하라
 + ### Method 1 $y'=(ln2x)'= (ln2 +lnx)'=(lnx)'=\frac{1}{x}$
 + ### Method 2 $Let \ d=2x, d'=2, (lnu)'=\frac{1}{u}, \quad \therefore y'=2\frac{1}{2x}=\frac{1}{x}$
+
+## 예제-2
+### $y=x^{lnx},(x>0)$을 미분 하라
++ ### $lny=lnx^{lnx}=lnxlnx=(lnx)^{2}, \quad \frac{d(lny)}{dy} \frac{dy}{dx}=2lnx\frac{1}{x}, \quad \frac{d(lny)}{dy}=\frac{1}{y}$
++ ### $\frac{d(lny)}{dy} \frac{dy}{dx}= \frac{1}{y}\frac{dy}{dx}=2lnx\frac{1}{x},\quad \frac{dy}{dx}=y2lnx\frac{1}{x}=2x^{lnx-1}lnx $
