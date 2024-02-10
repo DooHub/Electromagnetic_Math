@@ -8,3 +8,4 @@
 ## 증명 2
 ### $(lnx)'=\frac{1}{x}$을 이용하여 $y=log_{a}x(a>0,a\neq 1)$ 도함수를 구해 보자
 ### $(log_{a}x)'=\frac{1}{xlna}$의 증명
++ ### $(log_{a}x)'=(\frac{lnx}{lna})'=\frac{1}{lna}(lnx)'=\frac{1}{xlna}, \qquad log_{a}b=\frac{log_{c}b}{log_{c}a}$
