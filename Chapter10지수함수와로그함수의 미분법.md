@@ -19,3 +19,12 @@
 ### $y=x^{lnx},(x>0)$을 미분 하라
 + ### $lny=lnx^{lnx}=lnxlnx=(lnx)^{2}, \quad \frac{d(lny)}{dy} \frac{dy}{dx}=2lnx\frac{1}{x}, \quad \frac{d(lny)}{dy}=\frac{1}{y}$
 + ### $\frac{d(lny)}{dy} \frac{dy}{dx}= \frac{1}{y}\frac{dy}{dx}=2lnx\frac{1}{x},\quad \frac{dy}{dx}=y2lnx\frac{1}{x}=2x^{lnx-1}lnx $
+
+
+## 증명 3
+### 자연로그의 미분법을 이용하여 지수함수 $y=a^{x}$ 도함수를 구해 보자
+### $(a^{x})'=a^{x}lna \ (a>0, a\neq 1)$ 증명
++ ### $lny=lna^{x}=xlna, \quad \frac{d(lny)}{dy}\frac{dy}{dx}=(xlna)'=lna, \frac{1}{y}\frac{dx}{dy}=lna, \frac{dx}{dy}=ylna =a^{x}lna$
+
+## 증명 4
+### $(a^{x})'=a^{x}lna (a>0, a\neq 1)$을 이용하여 $(e^{x})'=e^{x}$ 임을 보이자.
