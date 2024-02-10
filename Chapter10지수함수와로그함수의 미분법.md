@@ -40,3 +40,7 @@
 ![cynder](https://github.com/DooHub/Electromagnetic_Math/assets/99073912/c198bc90-22d1-4949-919c-6d4b6d4b10bb)
 
 + ### $-\frac{\partial B_{z}}{\partial t}=-\frac{\partial B_{0}e^{kt}}{\partial t}=-B_{0}\frac{\partial e^{kt}}{\partial t}=-B_{0}ke^{kt}$
++ ### $\frac{1}{ \rho} \frac{\partial (\rho E _{\phi})}{\partial \rho}=-\frac{\partial B _{z}}{\partial t}=-kB _{0}ke^{kt}$
++ ### $\frac{\partial (\rho E _{\phi})}{\partial \rho}=-k \rho B _{0}e^{kt}$
++ ### $\rho E _{\phi}=\int -k \rho B _{0}ke^{kt}d \rho=-kB _{0}e^{kt}\int \rho d\rho=\frac{-1}{2}kB _{0}e^{kt}\rho^{2}+C,  (C=0)=\frac{-1}{2}kB _{0}e^{kt}\rho^{2}$
++ ### $E _{\phi}=\frac{-1}{2}\rho k B _{0} e^{kt}$
