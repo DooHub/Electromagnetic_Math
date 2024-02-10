@@ -9,3 +9,8 @@
 ### $(lnx)'=\frac{1}{x}$을 이용하여 $y=log_{a}x(a>0,a\neq 1)$ 도함수를 구해 보자
 ### $(log_{a}x)'=\frac{1}{xlna}$의 증명
 + ### $(log_{a}x)'=(\frac{lnx}{lna})'=\frac{1}{lna}(lnx)'=\frac{1}{xlna}, \qquad log_{a}b=\frac{log_{c}b}{log_{c}a}$
+
+## 예제-1
+### $y=ln2x$을 미분 하라
++ ### Method 1 $y'=(ln2x)'= (ln2 +lnx)'=(lnx)'=\frac{1}{x}$
++ ### Method 2 $Let \ d=2x, d'=2, (lnu)'=\frac{1}{u}, \quad \therefore y'=2\frac{1}{2x}=\frac{1}{x}$
