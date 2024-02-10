@@ -37,3 +37,4 @@
 ### 자기장은 다음과 같다.
 ### $B_{z}=B_{0}e^{kt}$
 ### $E_{\phi}$를 구하여라. 단, 적분과정에서 적분상수는 0이다.
+![cynder](https://github.com/DooHub/Electromagnetic_Math/assets/99073912/c198bc90-22d1-4949-919c-6d4b6d4b10bb)
