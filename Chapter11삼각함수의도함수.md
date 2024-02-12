@@ -1,4 +1,4 @@
-# Background-1
+## Background-1
 
 ### $\lim_{x \to 0} \frac{\text{sin}x}{x}=1$증명하라
 + ### 라디안 : 반지름과 호의 길이의 비, 1 라디안 : 반지름(r) = 호의 길이 (라디안은 비율이기 때문에 원의 크기에 상관없이 적용)
@@ -10,3 +10,6 @@
   ### 삼각형ABC넓이 < 부채꼴ABD넓이 < 삼각형AED넓이 $\longrightarrow \frac{1}{2}\times 1 \times \text{sin}x\lt \frac{1}{2} \times 1^{2}\times x \lt \frac{1}{2} \times 1 \times \text{tan}x$
   ### $\frac{2}{\text{sin}x}$을 곱해주면 $1\lt \frac{x}{\text{sin}x}\lt \frac{1}{\text{cos}x}$
   ### 1보다 큰수의 역수는 1보다 작고 0보다는 크다. $\quad 1\gt \frac{\text{sin}x}{x}\gt \text{cos}x \gt0, \quad \lim_{x \to 0} \text{cos}x=1\quad \therefore \frac{\text{sin}x}{x}=1$
+## Background-2
+### $\lim_{x \to 0} \frac{\text{cos}x-1}{x}=0$증명하라
++ ### $\lim_{x \to 0} \frac{\text{cos}x-1}{x}=\lim_{x \to 0} \frac{(\text{cos}x-1)(\text{cos}x+1)}{x(\text{cos}x+1)}=\lim_{x \to 0} \frac{\text{cos}^{2}x-1}{x(\text{cos}x+1)}=\lim_{x \to 0} \frac{-\text{sin}^{2}x}{x(\text{cos}x+1)}$
