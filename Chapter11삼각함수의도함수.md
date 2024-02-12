@@ -14,3 +14,12 @@
 ### $\lim_{x \to 0} \frac{\text{cos}x-1}{x}=0$증명하라
 + ### $\lim_{x \to 0} \frac{\text{cos}x-1}{x}=\lim_{x \to 0} \frac{(\text{cos}x-1)(\text{cos}x+1)}{x(\text{cos}x+1)}=\lim_{x \to 0} \frac{\text{cos}^{2}x-1}{x(\text{cos}x+1)}=\lim_{x \to 0} \frac{-\text{sin}^{2}x}{x(\text{cos}x+1)}$
 ### $\qquad \qquad \qquad \quad \ =\lim_{x \to 0}\frac{\text{sin}x}{x}\frac{-\text{sin}x}{\text{cos}x+1}, \quad \lim_{x \to 0}\frac{\text{sin}x}{x}=1,\lim_{x \to 0}\frac{-\text{sin}x}{\text{cos}x+1}=\frac{0}{2}=0 \quad \therefore 1 \times \frac{0}{2}=0$
+
+## 증명
++ ### $(\text{sin}x)'=\text{cos}x$
+  ### $\qquad \quad=\lim_{h \to 0} \frac{\text{sin}(x+h)-\text{sin}x}{h}=\lim_{h \to 0} \frac{\text{sin}x\text{cos}h+\text{sin}h\text{cos}x-\text{sin}x}{h}=\lim_{h \to 0} \frac{\text{sin}x(\text{cos}h-1)+\text{sin}h\text{cos}x}{h}$
+  ### $\qquad \qquad \lim_{h \to 0} \frac{\text{sin}x(\text{cos}h-1)}{h}=0,\lim_{h \to 0} \frac{\text{sin}h\text{cos}x}{h}=1\times \text{cos}x$
+  
++ ### $(\text{cos}x)'=-\text{sin}x$
+  ### $\qquad \quad=\lim_{h \to 0} \frac{\text{cos}(x+h)-\text{cos}x}{h}=\lim_{h \to 0} \frac{\text{cos}x\text{cos}h-\text{sin}h\text{sin}x-\text{cos}x}{h}=\lim_{h \to 0} \frac{\text{cos}x(\text{cos}h-1)-\text{sin}h\text{sin}x}{h}$
+  ### $\qquad \qquad \lim_{h \to 0} \frac{\text{cos}x(\text{cos}h-1)}{h}=0,\lim_{h \to 0} \frac{\text{sin}h\text{sin}x}{h}=-1\times \text{sin}x$
