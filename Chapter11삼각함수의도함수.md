@@ -26,3 +26,7 @@
 
 + ### $(\text{tan}x)'=-\text{sec}^{2}x$
   ### $\qquad \quad=(\frac{\text{sin}x}{\text{cos}x})'=\frac{\text{cos}x\text{cos}x+\text{sin}x\text{sin}x}{\text{cos}^{2}x}=\frac{1}{\text{cos}^{2}x}=\text{sec}^{2}x$
+
+## 응용문제-1
+### 전속밀도가 $\overrightarrow{D}=e^{-x}\text{sin}y\hat{a_{x}}-e^{-x}\text{cos}y\hat{a_{y}}+2z\hat{a_{z}}\ \text{C}/m^{2}$으로 주어졌다.
+### 원점에서 $\bigtriangleup v =10^{-9}m^{3}$에 둘러싸인 총 전하량의 근사치는 $\text{Q}=(\frac{\partial D_{x}}{\partial x}+\frac{\partial D_{y}}{\partial y}+\frac{\partial D_{z}}{\partial z})|_{(0,0,0)}\bigtriangleup v$이다. $\text{Q}$를 구하여라
