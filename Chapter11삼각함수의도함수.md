@@ -13,3 +13,4 @@
 ## Background-2
 ### $\lim_{x \to 0} \frac{\text{cos}x-1}{x}=0$증명하라
 + ### $\lim_{x \to 0} \frac{\text{cos}x-1}{x}=\lim_{x \to 0} \frac{(\text{cos}x-1)(\text{cos}x+1)}{x(\text{cos}x+1)}=\lim_{x \to 0} \frac{\text{cos}^{2}x-1}{x(\text{cos}x+1)}=\lim_{x \to 0} \frac{-\text{sin}^{2}x}{x(\text{cos}x+1)}$
+### $\qquad \qquad \qquad \quad \ =\lim_{x \to 0}\frac{\text{sin}x}{x}\frac{-\text{sin}x}{\text{cos}x+1}, \quad \lim_{x \to 0}\frac{\text{sin}x}{x}=1,\lim_{x \to 0}\frac{-\text{sin}x}{\text{cos}x+1}=\frac{0}{2}=0 \quad \therefore 1 \times \frac{0}{2}=0$
