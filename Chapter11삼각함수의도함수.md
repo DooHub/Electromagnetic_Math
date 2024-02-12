@@ -23,3 +23,6 @@
 + ### $(\text{cos}x)'=-\text{sin}x$
   ### $\qquad \quad=\lim_{h \to 0} \frac{\text{cos}(x+h)-\text{cos}x}{h}=\lim_{h \to 0} \frac{\text{cos}x\text{cos}h-\text{sin}h\text{sin}x-\text{cos}x}{h}=\lim_{h \to 0} \frac{\text{cos}x(\text{cos}h-1)-\text{sin}h\text{sin}x}{h}$
   ### $\qquad \qquad \lim_{h \to 0} \frac{\text{cos}x(\text{cos}h-1)}{h}=0,\lim_{h \to 0} \frac{\text{sin}h\text{sin}x}{h}=-1\times \text{sin}x$
+
++ ### $(\text{tan}x)'=-\text{sec}^{2}x$
+  ### $\qquad \quad=(\frac{\text{sin}x}{\text{cos}x})'=\frac{\text{cos}x\text{cos}x+\text{sin}x\text{sin}x}{\text{cos}^{2}x}=\frac{1}{\text{cos}^{2}x}=\text{sec}^{2}x$
