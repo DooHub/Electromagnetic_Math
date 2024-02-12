@@ -30,3 +30,7 @@
 ## 응용문제-1
 ### 전속밀도가 $\overrightarrow{D}=e^{-x}\text{sin}y\hat{a_{x}}-e^{-x}\text{cos}y\hat{a_{y}}+2z\hat{a_{z}}\ \text{C}/m^{2}$으로 주어졌다.
 ### 원점에서 $\bigtriangleup v =10^{-9}m^{3}$에 둘러싸인 총 전하량의 근사치는 $\text{Q}=(\frac{\partial D_{x}}{\partial x}+\frac{\partial D_{y}}{\partial y}+\frac{\partial D_{z}}{\partial z})|_{(0,0,0)}\bigtriangleup v$이다. $\text{Q}$를 구하여라
++ ### $\frac{\partial D_{x}}{\partial x}=\frac{\partial }{\partial x}(-e^{-x}\text{sin}y)=\text{sin}y\frac{d }{dx}(-e^{-x})=-e^{-x}\text{sin}y$
++ ### $\frac{\partial D_{y}}{\partial y}=\frac{\partial }{\partial y}(-e^{-x}\text{cos}y)=-e^{-x}\frac{d }{dy}(\text{cos}y)=e^{-x}\text{sin}y$
++ ### $\frac{\partial D_{z}}{\partial z}=\frac{\partial }{\partial z}(2z)=2\frac{d }{dz}(z)=2$
++ ### $\text{Q}=(-e^{-x}\text{sin}y+e^{-x}\text{sin}y+2)|_{(0,0,0)}\bigtriangleup v=2\times 10^{-9}m^{3}$
