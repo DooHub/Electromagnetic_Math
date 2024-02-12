@@ -33,4 +33,9 @@
 + ### $\frac{\partial D_{x}}{\partial x}=\frac{\partial }{\partial x}(-e^{-x}\text{sin}y)=\text{sin}y\frac{d }{dx}(-e^{-x})=-e^{-x}\text{sin}y$
 + ### $\frac{\partial D_{y}}{\partial y}=\frac{\partial }{\partial y}(-e^{-x}\text{cos}y)=-e^{-x}\frac{d }{dy}(\text{cos}y)=e^{-x}\text{sin}y$
 + ### $\frac{\partial D_{z}}{\partial z}=\frac{\partial }{\partial z}(2z)=2\frac{d }{dz}(z)=2$
-+ ### $\text{Q}=(-e^{-x}\text{sin}y+e^{-x}\text{sin}y+2)|_{(0,0,0)}\bigtriangleup v=2\times 10^{-9}m^{3}$
++ ### $\text{Q}=(-e^{-x}\text{sin}y+e^{-x}\text{sin}y+2)|_{(0,0,0)}\bigtriangleup v=2\times 10^{-9}\text{C}$ -단위 주
+
+## 가우스법칙
+### 전속밀도 $\text{D}$ $(C/m^{2})$는 단위면적당 전속의 수를 전속밀도라 한다.
+### 표면의 전속밀도의 면적분은 면 내의 총 전하량과 같다.-폐곡면 내 $\text{Q}=\oint_{s}^{}\textbf{D}\bullet d\textbf{S}$
+### 전속밀도$(C/m^{2}$)와 전계($V/m$)의 관계 $\text{D}=\varepsilon_{0}\textbf{E}$
