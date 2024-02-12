@@ -38,4 +38,4 @@
 ## 가우스법칙
 ### 전속밀도 $\text{D}$ $(C/m^{2})$는 단위면적당 전속의 수를 전속밀도라 한다.
 ### 표면의 전속밀도의 면적분은 면 내의 총 전하량과 같다.-폐곡면 내 $\text{Q}=\oint_{s}^{}\textbf{D}\bullet d\textbf{S}$
-### 전속밀도$(C/m^{2}$)와 전계($V/m$)의 관계 $\text{D}=\varepsilon_{0}\textbf{E}$
+### 전속밀도 $(C/m^{2}$) 와 전계($V/m$)의 관계 $\quad \Longrightarrow \text{D}=\varepsilon_{0}\textbf{E}$
