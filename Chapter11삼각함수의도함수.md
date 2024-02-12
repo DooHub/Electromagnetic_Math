@@ -6,3 +6,5 @@
 + ### 부채꼴의 넓이 : $\frac{1}{2}r^{2}\theta$
 + ### 반지름이 1인 원에서 넓이에 대해 다음이 성립 된다.
   ### 삼각형ABC넓이 < 부채꼴ABD넓이 < 삼각형AED넓이 $\longrightarrow \frac{1}{2}\times 1 \times \text{sin}x\lt \frac{1}{2} \times 1^{2}\times x \lt \frac{1}{2} \times 1 \times \text{tan}x$
+  ### $\frac{2}{\text{sin}x}$을 곱해주면 $1\lt \frac{x}{\text{sin}x}\lt \frac{1}{\text{cos}x}$
+  ### 1보다 큰수의 역수는 1보다 작고 0보다는 크다. $\quad 1\gt \frac{\text{sin}x}{x}\gt \text{cos}x \gt0, \quad \lim_{x \to 0} \text{cos}x=1\quad \therefore \frac{\text{sin}x}{x}=1$
