@@ -66,3 +66,7 @@
 + ### $\rho_{v}=\frac{1}{r^{2}}6r^{2}\text{sin}\theta\text{cos}\phi+\frac{1}{r\text{sin}\theta}r\text{cos}2\theta\text{cos}\phi+\frac{1}{r\text{sin}\theta}r\text{cos}\phi$
 ### $\quad \ =\text{cos}\phi(6\text{sin}\theta+\frac{\text{cos}2\theta}{\text{sin}\theta}-\frac{1}{\text{sin}\theta})=\text{cos}\phi(\frac{6\text{sin}^{2}\theta+1-2\text{sin}^{2}\theta-1}{\text{sin}\theta})=4\text{sin}\theta\text{cos}\phi, \quad (\text{cos}2\theta=1-2\text{sin}\theta)$
 ### $\quad \ =4\text{sin}50^{\circ}\text{cos}30^{\circ} = 1.286 \ C/m^{3}$
+
+## Summary
+### $\frac{d }{dx}\text{sin}x=\text{cos}x, \quad \frac{d }{dx}\text{cos}x=-\text{sin}x, \quad \frac{d }{dx}\text{sec}x=\text{sec}x\text{tan}x, \quad \frac{d }{dx}\text{csc}x=-\text{csc}x\text{cot}x$
+### $\frac{d }{dx}\text{tan}x=\text{sec}^{2}x, \quad \frac{d }{dx}\text{cot}x=-\text{sec}^{2}x$
