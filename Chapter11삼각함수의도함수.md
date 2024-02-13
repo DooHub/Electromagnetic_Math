@@ -40,6 +40,9 @@
 ### 표면의 전속밀도의 면적분은 면 내의 총 전하량과 같다.-폐곡면 내 $\text{Q}=\oint_{s}^{}\textbf{D}\bullet d\textbf{S}$
 ### 전속밀도 $(C/m^{2}$) 와 전계($V/m$)의 관계 $\quad \Longrightarrow \text{D}=\varepsilon_{0}\textbf{E}$
 
+
 ## 응용문제-2
 ### 체적전하밀도 $\rho_{v}$는 전속밀도 $\overrightarrow{D}$ 로부터 $\rho_{v}=\nabla \cdot \overrightarrow{D}$ 의 관계로 구해진다. 원통좌표계에서 $\nabla \cdot \overrightarrow{D}$ 는 다음과 같다.
 ### $\qquad  \qquad \nabla \cdot \overrightarrow{D}=\frac{1}{\rho}\frac{\partial }{\partial \rho}(\rho D_{\rho})+\frac{1}{\rho}\frac{\partial D_{\phi}}{\partial \phi}+\frac{\partial D_{z}}{\partial z}$
+### 점 $P(\rho=2,\phi=110^{\circ },z=1)$ 에서 $\rho_{v}$ 를 구하여라.
+### 전속밀도는 다음과 같다. $\overrightarrow{D}=2\rho z^{2}\text{sin}^{2}\phi \hat{a}_{\rho}+\rho z^{2}\text{sin}2 \phi \hat{a}_{\phi}+2 \rho^{2} \text{sin}^{2} \phi \hat{a}_{z} \ C/m^{2}$
