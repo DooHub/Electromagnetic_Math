@@ -61,4 +61,8 @@
 ### 전속밀도는 다음과 같다. 
 ### $\overrightarrow{D}=2r \text{sin} \theta\text{cos}\phi \hat{a} _{r}+r \text{cos}\theta \text{cos}\phi \hat{a} _{\theta}-r\text{sin}\phi \hat{a} _{\phi} \ C/m^{2}$
 + ### $\frac{\partial }{\partial r}(r^2 D_{r})=\frac{\partial }{\partial r}(r^{2}2r\text{sin}\theta\text{cos}\phi)=2\text{sin}\theta\text{cos}\phi\frac{d }{dr}(r^{3})=6r^{2}\text{sin}\theta\text{cos}\phi$
-+ ### $\frac{\partial }{\partial \theta}(\text{sin}\theta D_{\theta})=\frac{\partial }{\partial \theta}(\text{sin}\theta r\text{cos}\theta\text{cos}\phi)=r\text{cos}\phi\frac{d}{d \theta}(\text{sin}\theta \text{cos}\theta)=r\text{cos}\phi\frac{d}{d \theta}(\frac{1}{2}\text{sin}2\theta)=r\text{cos}\theta\text{cos}\phi,\quad (2\text{sin}\theta \text{cos}\theta=\text{sin}2\theta)$
++ ### $\frac{\partial }{\partial \theta}(\text{sin}\theta D_{\theta})=\frac{\partial }{\partial \theta}(\text{sin}\theta r\text{cos}\theta\text{cos}\phi)=r\text{cos}\phi\frac{d}{d \theta}(\text{sin}\theta \text{cos}\theta)=r\text{cos}\phi\frac{d}{d \theta}(\frac{1}{2}\text{sin}2\theta)=r\text{cos}2\theta\text{cos}\phi,\quad (2\text{sin}\theta \text{cos}\theta=\text{sin}2\theta)$
++ ### $\frac{\partial D_{\phi}}{\partial \phi}=\frac{\partial }{\partial \phi}(-r\text{sin}\phi)=-r\frac{d}{d\phi}\text{sin}\phi=-r\text{cos}\phi$
++ ### $\rho_{v}=\frac{1}{r^{2}}6r^{2}\text{sin}\theta\text{cos}\phi+\frac{1}{r\text{sin}\theta}r\text{cos}2\theta\text{cos}\phi+\frac{1}{r\text{sin}\theta}r\text{cos}\phi$
+### $\quad \ =\text{cos}\phi(6\text{sin}\theta+\frac{\text{cos}2\theta}{\text{sin}\theta}-\frac{1}{\text{sin}\theta})=\text{cos}\phi(\frac{6\text{sin}^{2}\theta+1-2\text{sin}^{2}\theta-1}{\text{sin}\theta})=4\text{sin}\theta\text{cos}\phi, \quad (\text{cos}2\theta=1-2\text{sin}\theta)$
+### $\quad \ =4\text{sin}50^{\circ}\text{cos}30^{\circ} = 1.286 \ C/m^{3}$
