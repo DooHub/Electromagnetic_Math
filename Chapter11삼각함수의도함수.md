@@ -59,4 +59,5 @@
 ### $\qquad  \qquad \nabla \cdot \overrightarrow{D}=\frac{1}{r^{2}}\frac{\partial }{\partial r}(r^2 D_{r})+\frac{1}{r\text{sin}\theta}\frac{\partial }{\partial \theta}(\text{sin}\theta D_{\theta})+\frac{1}{r\text{sin}\theta}\frac{\partial D_{\phi}}{\partial \phi}$
 ### 점 $P(\rho=1.5,\theta=30^{\circ },\phi=50^{\circ})$ 에서 $\rho_{v}=\nabla \cdot \overrightarrow{D}$ 를 구하여라.
 ### 전속밀도는 다음과 같다. 
-### $\overrightarrow{D}=2\rho z^{2} \text{sin}^{2} \phi \hat{a} _{\rho}+\rho z^{2}\text{sin}2 \phi \hat{a} _{\phi}+2 \rho^{2} \text{sin}^{2} \phi \hat{a} _{z} \ C/m^{2}$
+### $\overrightarrow{D}=2r \text{sin} \theta\text{cos}\phi \hat{a} _{r}+r \text{cos}\theta \text{cos}\phi \hat{a} _{\theta}-r\text{sin}\phi \hat{a} _{\phi} \ C/m^{2}$
++ ### $\frac{\partial }{\partial r}(r^2 D_{r})=\frac{\partial }{\partial r}(r^{2}2r\text{sin}\theta\text{cos}\phi)=2\text{sin}\theta\text{cos}\phi\frac{d }{dr}(r^{3})=6r^{2}\text{sin}\theta\text{cos}\phi$
