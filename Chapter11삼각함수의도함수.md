@@ -47,4 +47,5 @@
 ### 점 $P(\rho=2,\phi=110^{\circ },z=1)$ 에서 $\rho_{v}$ 를 구하여라.
 ### 전속밀도는 다음과 같다. 
 ### $\overrightarrow{D}=2\rho z^{2} \text{sin}^{2} \phi \hat{a} _{\rho}+\rho z^{2}\text{sin}2 \phi \hat{a} _{\phi}+2 \rho^{2} \text{sin}^{2} \phi \hat{a} _{z} \ C/m^{2}$
-+ ### $\frac{\partial }{\partial \rho}(\rho D_{\rho})=\frac{\partial }{\partial \rho}(\rho 2\rho z^{2}\text{sin}^{2}\phi )=2z^{2}\text{sin}^{2}\phi \frac{\partial }{\partial \rho}(\rho^{2})=4\rho z^{2}\text{sin}^{2}\phi$
++ ### $\frac{\partial }{\partial \rho}(\rho D_{\rho})=\frac{\partial }{\partial \rho}(\rho 2\rho z^{2}\text{sin}^{2}\phi )=2z^{2}\text{sin}^{2}\phi \frac{d }{d \rho}(\rho^{2})=4\rho z^{2}\text{sin}^{2}\phi$
++ ### $\frac{\partial D_{\phi}}{\partial \phi}=\frac{\partial }{\partial \phi}(\rho z^{2}\text{sin}2\phi )=\rho z^{2}\frac{d }{d \rho}(\text{sin}2\phi)=2\rho z^{2}\text{cos}2\phi$
