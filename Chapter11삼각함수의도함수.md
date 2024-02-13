@@ -57,6 +57,6 @@
 ## 응용문제-3
 ### 체적전하밀도 $\rho_{v}$는 전속밀도 $\overrightarrow{D}$ 로부터 $\rho_{v}=\nabla \cdot \overrightarrow{D}$ 의 관계로 구해진다. 구좌표계에서 $\nabla \cdot \overrightarrow{D}$ 는 다음과 같다.
 ### $\qquad  \qquad \nabla \cdot \overrightarrow{D}=\frac{1}{r^{2}}\frac{\partial }{\partial r}(r^2 D_{r})+\frac{1}{r\text{sin}\theta}\frac{\partial }{\partial \theta}(\text{sin}\theta D_{\theta})+\frac{1}{r\text{sin}\theta}\frac{\partial D_{\phi}}{\partial \phi}$
-### 점 $P(\rho=1.5,\theta=30^{\circ },\phi=50^{\circ)$ 에서 $\rho_{v}=\nabla \cdot \overrightarrow{D}$ 를 구하여라.
+### 점 $P(\rho=1.5,\theta=30^{\circ },\phi=50^{\circ})$ 에서 $\rho_{v}=\nabla \cdot \overrightarrow{D}$ 를 구하여라.
 ### 전속밀도는 다음과 같다. 
 ### $\overrightarrow{D}=2\rho z^{2} \text{sin}^{2} \phi \hat{a} _{\rho}+\rho z^{2}\text{sin}2 \phi \hat{a} _{\phi}+2 \rho^{2} \text{sin}^{2} \phi \hat{a} _{z} \ C/m^{2}$
