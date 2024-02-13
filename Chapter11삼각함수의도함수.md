@@ -53,3 +53,10 @@
 + ### $\rho_{v}=\frac{1}{\rho}\frac{\partial }{\partial \rho}(\rho D_{\rho})+\frac{1}{\rho}\frac{\partial D_{\phi}}{\partial \phi}+\frac{\partial D_{z}}{\partial z}=\frac{1}{\rho}(4\rho z^{2}\text{sin}^{2}\phi)+\frac{1}{\rho}(2\rho z^{2}\text{cos}2\phi)+2\rho^{2} \text{sin}^{2}\phi$
 ### $\qquad \ \ =4z^{2}\text{sin}^{2}\phi+2z^{2}\text{cos}2\phi+2\rho^{2} \text{sin}^{2}\phi$
 + ### $P(\rho=2,\phi=110^{\circ },z=-1) = 4(-1)^{2}\text{sin}^{2}110^{\circ }+2(-1)^{2}\text{cos}220^{\circ }+2(2)^{2} \text{sin}^{2}110^{\circ }=9.064\ C/m^{3}$
+
+## 응용문제-3
+### 체적전하밀도 $\rho_{v}$는 전속밀도 $\overrightarrow{D}$ 로부터 $\rho_{v}=\nabla \cdot \overrightarrow{D}$ 의 관계로 구해진다. 구좌표계에서 $\nabla \cdot \overrightarrow{D}$ 는 다음과 같다.
+### $\qquad  \qquad \nabla \cdot \overrightarrow{D}=\frac{1}{r^{2}}\frac{\partial }{\partial r}(r^2 D_{r})+\frac{1}{r\text{sin}\theta}\frac{\partial }{\partial \theta}(\text{sin}\theta D_{\theta})+\frac{1}{r\text{sin}\theta}\frac{\partial D_{\phi}}{\partial \phi}$
+### 점 $P(\rho=1.5,\theta=30^{\circ },\phi=50^{\circ)$ 에서 $\rho_{v}=\nabla \cdot \overrightarrow{D}$ 를 구하여라.
+### 전속밀도는 다음과 같다. 
+### $\overrightarrow{D}=2\rho z^{2} \text{sin}^{2} \phi \hat{a} _{\rho}+\rho z^{2}\text{sin}2 \phi \hat{a} _{\phi}+2 \rho^{2} \text{sin}^{2} \phi \hat{a} _{z} \ C/m^{2}$
