@@ -39,3 +39,7 @@
 ### 전속밀도 $\text{D}$ $(C/m^{2})$는 단위면적당 전속의 수를 전속밀도라 한다.
 ### 표면의 전속밀도의 면적분은 면 내의 총 전하량과 같다.-폐곡면 내 $\text{Q}=\oint_{s}^{}\textbf{D}\bullet d\textbf{S}$
 ### 전속밀도 $(C/m^{2}$) 와 전계($V/m$)의 관계 $\quad \Longrightarrow \text{D}=\varepsilon_{0}\textbf{E}$
+
+## 응용문제-2
+### 체적전하밀도 $\rho_{v}$는 전속밀도 $\overrightarrow{D}$ 로부터 $\rho_{v}=\nabla \cdot \overrightarrow{D}$ 의 관계로 구해진다. 원통좌표계에서 $\nabla \cdot \overrightarrow{D}$ 는 다음과 같다.
+### $\qquad  \qquad \nabla \cdot \overrightarrow{D}=\frac{1}{\rho}\frac{\partial }{\partial \rho}(\rho D_{\rho})+\frac{1}{\rho}\frac{\partial D_{\phi}}{\partial \phi}+\frac{\partial D_{z}}{\partial z}$
