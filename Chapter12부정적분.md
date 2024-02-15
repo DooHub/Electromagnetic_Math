@@ -27,3 +27,9 @@
 + ### $\int_{}^{}(f(x)+g(x))dx =\int_{}^{}f(x)dx+\int_{}^{}g(x)dx$
 + ### $\int_{}^{}(ax+b)^{n}dx =\frac{1}{a(n+1)}(ax+b)^{n+1}+\text{C} (a \ne 0, n\ne 1)$
   + ### Chain rule  $\ u=ax+b, \quad du=adx \longrightarrow \int_{}^{}(ax+b)^{n}dx=\int_{}^{}\frac{1}{a}u^{n}du=\frac{1}{a(n+1)}(ax+b)^{n+1}+\text{C}$
+
+## 응용예제
+### 전하 Q가 전기장 $\overrightarrow{E}$내에서 점 B로 부터 점 A로 이동하는데 들어가는 에너지는 $\text{W}=-Q\int_{B}^{A}\overrightarrow{E}\cdot d\overrightarrow{L}$나타난다.
+### Q=2C, $\ \overrightarrow{E}=y\hat{a}_{x}+x\hat{a}_{y}+2\hat{a}_{z}$, 점 A(0.8,0.6,1)점 B(1,0,1) 일 때, 점 B에서 점A로 최단 거리로 움직일 때 필요한 에너지를 구하라.
+### Background
++ ### 자기장에 전하가 존재하면 자기장 방향으로 전하는 힘을 받는다. 
