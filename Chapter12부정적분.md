@@ -15,3 +15,8 @@
   + ### F(x): 부정적분(원시함수)
   + ### x :적분 변수
   + ### C :적분 상수
+
+## 일반화 증명 $\int_{}^{}x^{n}dx =\frac{1}{n+1}x^{n+1}+\text{C}$
++ ### $(x^{n})'=nx^{n-1},\quad  n\longrightarrow n+1, \quad (x^{n+1})'=(n+1)x^{n}$
++ ### $(x^{n+1})'=(n+1)x^{n}, \quad \frac{1}{n+1}(x^{n+1})'=x^{n}$
++ ### $\int_{}^{}x^{n}dx =\frac{1}{n+1}x^{n+1}+\text{C}$
