@@ -25,3 +25,5 @@
 + ### $\int_{}^{}kdx =kx+\text{C}$
 + ### $\int_{}^{}kf(x)dx =k\int_{}^{}f(x)dx$
 + ### $\int_{}^{}(f(x)+g(x))dx =\int_{}^{}f(x)dx+\int_{}^{}g(x)dx$
++ ### $\int_{}^{}(ax+b)^{n}dx =\frac{1}{a(n+1)}(ax+b)^{n+1}+\text{C} (a \ne 0, n\ne 1)$
+  + ### Chain rule  $\ u=ax+b, \quad du=adx \longrightarrow \int_{}^{}(ax+b)^{n}dx=\int_{}^{}\frac{1}{a}u^{n}du=\frac{1}{a(n+1)}(ax+b)^{n+1}+\text{C}$
