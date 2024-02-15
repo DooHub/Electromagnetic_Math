@@ -20,3 +20,8 @@
 + ### $(x^{n})'=nx^{n-1},\quad  n\longrightarrow n+1, \quad (x^{n+1})'=(n+1)x^{n}$
 + ### $(x^{n+1})'=(n+1)x^{n}, \quad \frac{1}{n+1}(x^{n+1})'=x^{n}$
 + ### $\int_{}^{}x^{n}dx =\frac{1}{n+1}x^{n+1}+\text{C}$
+
+## 부정적분의 기본 공식 (단, k는 상수)
++ ### $\int_{}^{}kdx =kx+\text{C}$
++ ### $\int_{}^{}kf(x)dx =k\int_{}^{}f(x)dx$
++ ### $\int_{}^{}(f(x)+g(x))dx =\int_{}^{}f(x)dx+\int_{}^{}g(x)dx$
