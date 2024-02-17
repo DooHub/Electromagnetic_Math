@@ -37,8 +37,10 @@
 
 + ### $d \vec{L}$의 의미는 직교 좌표에서  x,y,z축의 각 방향으로 미소변위를 말하다.
   ### $d \vec{L}=dx\hat{a}_ {x} +dy\hat{a}_ {y}+dz\hat{a}_{z}$로 표현 할 수 있다.
-+ ### dot product의 정의
++ ### dot product의 정의 및 계산
   ### $\vec{A}\cdot \vec{B}=\left| A \right|\left| B \right|\text{cos}\theta$. 적용한 값은 벡터이지만 결과 같은 스칼라가 된다.
   ### m에 $\vec{G}$ 로 힘을 주었을 때, $\vec{G}$ 힘을 받아 이동하다. 이 때의 일의 의미를 dot product 표현 할 수 있다.
+  
   <image src="https://github.com/DooHub/Electromagnetic_Math/assets/99073912/6d5e120e-a214-4523-bf1b-f623dbf342d4" width="400" />
+  
   ### $\hat{a}_x \cdot \hat{a}_x =\text{cos}0^{\circ}=1, \quad \hat{a}_x \cdot \hat{a}_y=\hat{a}_x \cdot \hat{a}_z =\text{cos}90^{\circ}=0$
