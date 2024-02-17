@@ -39,3 +39,4 @@
   ### $d \vec{L}=dx\hat{a}_ {x} +dy\hat{a}_ {y}+dz\hat{a}_{z}$로 표현 할 수 있다.
 + ### dot product의 정의
   ### $\vec{A}\cdot \vec{B}=\left| A \right|\left| B \right|\text{cos}\theta$
+  ### m에 $\vec{G}$ 로 힘을 주었을 때, $\vec$ 힘을 받아 이동하다. 이 때의 일의 양을 의
