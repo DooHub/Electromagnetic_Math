@@ -48,4 +48,4 @@ ________________________________________________________________________________
 ### 풀이
   + ### $\vec{E} \cdot d \vec{L}=(y\hat{a}_x+x\hat{a}_y+2\hat{a}_z)\cdot(dx\hat{a}_x+dy\hat{a}_y+dz\hat{a}_z)$
     ### $\qquad \quad=ydx+xdy+2dz$
-  + ### $\int_{B}^{A}\vec{E}\cdot d\vec{L}=\int_{(1,0,1)}^{(0.8,0.6,1)(ydx+xdy+2dz)=\int_{1}^{0.8}ydx+\int_{0}^{0.6}xdy+\int_{1}^{1}2dz$
+  + ### $\int_{B}^{A}\vec{E}\cdot d\vec{L}=\int_{(1,0,1)}^{(0.8,0.6,1)}(ydx+xdy+2dz)=\int_{1}^{0.8}ydx+\int_{0}^{0.6}xdy+\int_{1}^{1}2dz, \quad(\int_{a}^{a}f(x)dx=0)$
