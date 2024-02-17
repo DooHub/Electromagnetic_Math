@@ -44,3 +44,6 @@
   <image src="https://github.com/DooHub/Electromagnetic_Math/assets/99073912/6d5e120e-a214-4523-bf1b-f623dbf342d4" width="400" />
   
   ### $\hat{a}_x \cdot \hat{a}_x =\text{cos}0^{\circ}=1, \quad \hat{a}_x \cdot \hat{a}_y=\hat{a}_x \cdot \hat{a}_z =\text{cos}90^{\circ}=0$
+__________________________________________________________________________________________________________________________________________
+### 풀이
+  + ### $\vec{E} \cdot d \vec{L}=
