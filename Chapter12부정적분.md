@@ -46,4 +46,6 @@
   ### $\hat{a}_x \cdot \hat{a}_x =\text{cos}0^{\circ}=1, \quad \hat{a}_x \cdot \hat{a}_y=\hat{a}_x \cdot \hat{a}_z =\text{cos}90^{\circ}=0$
 __________________________________________________________________________________________________________________________________________
 ### 풀이
-  + ### $\vec{E} \cdot d \vec{L}=
+  + ### $\vec{E} \cdot d \vec{L}=(y\hat{a}_x+x\hat{a}_y+2\hat{a}_z)\cdot(dx\hat{a}_x+dy\hat{a}_y+dz\hat{a}_z)$
+    ### $\qquad \quad=ydx+xdy+2dz$
+  + ### $\int_{B}^{A}\vec{E}\cdot d\vec{L}=\int_{(1,0,1)}^{(0.8,0.6,1)(ydx+xdy+2dz)=\int_{1}^{0.8}ydx+\int_{0}^{0.6}xdy+\int_{1}^{1}2dz$
