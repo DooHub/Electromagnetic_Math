@@ -27,3 +27,13 @@
   ### $\ \ =\frac{-1}{5}e^{2x}\text{cos}x +\frac{2}{5}e^{2x}\text{sin}x+C$
 
 
+## 응용예제
+### 전위(electric potential)를 구하는 과정에서 전위 V는 $V=V_{+}+V_{-}$ 로 나타 낼 수 있다.
+### $V_{+}=-\frac{\rho_{L}}{2\pi\varepsilon_{0}}\int_{4}^{7}\frac{x-6}{(x-6)^{2}+16}dx$
+### $V_{-}=\frac{\rho_{L}}{2\pi\varepsilon_{0}}\int_{4}^{7}\frac{x-2}{(x-2)^{2}+16}dx$
+### 상기 값을 고려 해서 V를 구하여라
++ ### $V_{+}$ 과 $V_{-}$ 의 식이 유사 하기 때문에 적분 구간을 다음과 같이 일반화 하여 적분을 구한 후 각각의 값을 적용
+  ### $\int_{4}^{7}\frac{x-6}{(x-6)^{2}+16}dx,\int_{4}^{7}\frac{x-2}{(x-2)^{2}+16}dx \ \longrightarrow \ \int_{4}^{7}\frac{x-a}{(x-a)^{2}+16}dx$
++ ### $u=(x-a)^{2}+16, du=2(x-a)dx, \quad x=4 \to u_{1}=(4-a)^{2}+16, \quad x=7 \to u_{2}=(7-a)^{2}+16$
+  ### $I(a)=\int_{4}^{7}\frac{x-a}{(x-a)^{2}+16}dx=\int_{u_{1}}^{u_{2}}\frac{1}{2u}du=\frac{1}{2}ln|u|_{u _{1}}^{u _{2}} =\frac{1}{2}(ln|u _{2}|-ln|u _{1}|)=\frac{1}{2}ln|\frac{u _{2}}{u _{1}}|=\frac{1}{2}ln|\frac{(7-a)^{2}+16}{(4-a)^{2}+16}|$
++ ### $I(6)=\frac{1}{2}ln|\frac{17}{20}|,I(2)=\frac{1}{2}ln|\frac{41}{20}|, \quad V=V_{+}+V_{-}=\frac{\rho_{L}}{2\pi\varepsilon_{0}}(-I(6)+I(2))=frac{\rho_{L}}{2\pi\varepsilon_{0}}\frac{1}{2}(ln|\frac{41}{20}|-ln|\frac{17}{20}|)=\frac{\rho_{L}}{2\pi\varepsilon_{0}}ln|\frac{41}{17}|$
