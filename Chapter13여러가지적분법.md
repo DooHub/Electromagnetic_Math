@@ -6,4 +6,5 @@
 
 ## 부분적분
 ### $\int_{}^{}f(x)g'(x)dx=f(x)g(x)-\int_{}^{}f'(x)g(x)dx$ 이 됨을 보여라
-+ ### $f(x)g(x) \right\}'$
++ ### $\\{ f(x)g(x) \\}'=f'(x)g(x)+f(x)g'(x) \ \longrightarrow \int_{}^{}\\{f(x)g(x) \\}'dx=\int_{}^{}f'(x)g(x)dx+\int_{}^{}f(x)g'(x)dx$
+  ### $f(x)g(x)=\int_{}^{}f'(x)g(x)dx+\int_{}^{}f(x)g'(x)dx$
