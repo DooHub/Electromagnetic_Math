@@ -24,6 +24,6 @@
 + ### $u=2e^{2x},dv=\text{cos}xdx,du=4e^{2x}dx,v=\text{sin}x$
 + ### $\int_{}^{}\text{cos}x2e^{2x}dx=2e^{2x}\text{sin}x-\int_{}^{}\text{sin}x4e^{2x}dx,\quad -4\int_{}^{}e^{2x}\text{sin}xdx=4I$
 + ### $I=-e^{2x}\text{cos}x + \int_{}^{}\text{cos}x2e^{2x}d=-e^{2x}\text{cos}x +2e^{2x}\text{sin}x -4I$
-  ### $\ \ =\frac{-1}{5}e^{2x}\text{cos}x =\frac{2}{5}e^{2x}\text{sin}x+C$
+  ### $\ \ =\frac{-1}{5}e^{2x}\text{cos}x +\frac{2}{5}e^{2x}\text{sin}x+C$
 
 
