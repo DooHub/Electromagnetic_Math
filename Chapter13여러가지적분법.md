@@ -12,7 +12,18 @@
 + ### $I=\int_{}^{}lnxdx, \ u=lnx, du=\frac{1}{x}dx, v=x, dv=dx, \ \longrightarrow I=uv-\int_{}^{}vdu=xlnx - x +C$
 ## 예제-1
 ### $I=\int_{}^{}\frac{(\text{tan}^{-1} x)^2}{1+x^2}dx$ 구하라
-<image https://github.com/DooHub/Electromagnetic_Math/assets/99073912/b858be27-edb3-4730-b2c5-4c2a2e92dc86 \>
 + ### $\text{tan}\theta=x, \ \longrightarrow \ \frac{d}{dx}(\text{tan}\theta)=\frac{d(\text{tan}\theta)}{d\theta}\frac{d\theta}{dx}=\text{sec}^{2}\theta \frac{d\theta}{dx} ,\ \frac{d}{dx}(\text{tan}\theta)=\frac{d}{dx}(x)=1, \ \therefore \text{sec}^{2}\theta \frac{d\theta}{dx}=1$
 + ### $\theta =\text{tan}^{-1}x,\ \longrightarrow \ \frac{d\theta}{dx}=\frac{d}{dx}(\text{tan}^{-1}x)=\frac{1}{\text{sec}^{2}\theta}=\text{cos}^{2}=\frac{1}{x^2+1}, \ d\theta=\frac{1}{x^2+1}dx$
 + ### $I=\int_{}^{}\frac{(\text{tan}^{-1} x)^2}{1+x^2}dx=\int_{}^{}\theta^2d\theta=\frac{1}{3}\theta^3+C=\frac{1}{3}(\text{tan}^{-1}x)^3+C$
+<img src="https://github.com/DooHub/Electromagnetic_Math/assets/99073912/b858be27-edb3-4730-b2c5-4c2a2e92dc86" />
+
+## 예제-2
+### $I=\int_{}^{}e^{2x}\text{sin}xdx$ 구하라
++ ### $u=e^{2x},dv=\text{sin}{x}dx, \ du=2e^{2x}dx,v=-\text{cos}x$
++ ### $I=-e^{2x}\text{cos}x + \int_{}^{}\text{cos}x2e^{2x}dx$
++ ### $u=2e^{2x},dv=\text{cos}xdx,du=4e^{2x}dx,v=\text{sin}x$
++ ### $\int_{}^{}\text{cos}x2e^{2x}dx=2e^{2x}\text{sin}x-\int_{}^{}\text{sin}x4e^{2x}dx,\quad -4\int_{}^{}e^{2x}\text{sin}xdx=4I$
++ ### $I=-e^{2x}\text{cos}x + \int_{}^{}\text{cos}x2e^{2x}d=-e^{2x}\text{cos}x +2e^{2x}\text{sin}x -4I$
+  ### $\ \ =\frac{-1}{5}e^{2x}\text{cos}x =\frac{2}{5}e^{2x}\text{sin}x+C$
+
+
