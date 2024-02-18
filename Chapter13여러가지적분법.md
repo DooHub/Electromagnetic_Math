@@ -9,3 +9,4 @@
 + ### $\\{ f(x)g(x) \\}'=f'(x)g(x)+f(x)g'(x) \ \longrightarrow \int_{}^{}\\{f(x)g(x) \\}'dx=\int_{}^{}f'(x)g(x)dx+\int_{}^{}f(x)g'(x)dx$
   ### $f(x)g(x)=\int_{}^{}f'(x)g(x)dx+\int_{}^{}f(x)g'(x)dx$
 ### $u=f(x),v=g(x), \quad du=u'dx, dv=v'dx \ \longrightarrow  \int_{}^{}uv'dx=uv-\int_{}^{}vdu$
++ ### $I=\int_{}^{}lnxdx, \ u=lnx, du=\frac{1}{x}dx, v=x, dv=dx, \ \longrightarrow I=uv-\int_{}^{}vdu=xlnx - x +C$
