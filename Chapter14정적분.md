@@ -38,3 +38,4 @@ ________________________________________________
 ![triangle](https://github.com/DooHub/Electromagnetic_Math/assets/99073912/41f807b9-0de1-48bc-aabb-0fa1c04fbd5e)
 
 ### $S_k=\frac{a}{n}k\frac{h}{n}=\frac{ah}{n^2}k, \quad S_n=\sum\limits_{k=1}^n S_k=\sum\limits_{k=1}^n \frac{ah}{n^2}k=\frac{ah}{n^2}\sum\limits_{k=1}^n k=\frac{ah}{n^2}\frac{n(n+1)}{2}=\frac{ah(n+1)}{2n}$
+### $S=\underset{n \to \infty }{\text{lim}}S_n=\underset{n \to \infty }{\text{lim}}\frac{ah(n+1)}{2n}=\frac{ah}{2}\underset{n \to \infty }{\text{lim}}\frac{1+\frac{1}{n}}{1}=\frac{1}{2}ah$
