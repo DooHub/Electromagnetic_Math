@@ -6,3 +6,5 @@
 ### 1)과 2)를 더하면 $n(n+1)$이 되고, 이를 반으로 나눈 값이 $\frac{n(n+1)}{2}$가 된다
 * ### 방법 2
 ### $(n+1)^2-n^2=2n+1$ 을 이용하여 n에 $n=1,2, \cdots,n$ 넣은 후에 각 값을 더한다.
+![sum](https://github.com/DooHub/Electromagnetic_Math/assets/99073912/920e15e5-a4d3-4271-a583-4c26387b3f2d)
+
