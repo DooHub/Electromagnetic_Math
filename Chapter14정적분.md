@@ -50,3 +50,7 @@ ________________________________________________
 ### $S_n=\sum\limits_{k=1}^n S_k=\sum\limits_{k=1}^n \frac{1}{2}r^2\text{sin}\theta=\frac{1}{2}nr^2\text{sin}\theta=\frac{1}{2}nr^2\text{sin}\frac{2\pi}{n}$
 ### $S=\underset{n \to \infty }{\text{lim}}S_n=\underset{n \to \infty }{\text{lim}}\frac{1}{2}nr^2\text{sin}\frac{2\pi}{n}=\underset{n \to \infty }{\text{lim}}\frac{\text{sin}\frac{2\pi}{n}}{\frac{2\pi}{n}}\pi r^2=\pi r^2\underset{n \to \infty }{\text{lim}}\frac{\text{sin}\frac{2\pi}{n}}{\frac{2\pi}{n}}$
 ### $Let, \ x=\frac{2\pi}{n}, n \to \infty, \ x \to 0, \quad S=\pi r^2\underset{x \to 0 }{\text{lim}}\frac{\text{sin}x}{x}=\pi r^2, \quad (\underset{x \to 0 }{\text{lim}}\frac{\text{sin}x}{x}=1)$ [삼각함수도함수](https://github.com/DooHub/Electromagnetic_Math/blob/main/Chapter11%EC%82%BC%EA%B0%81%ED%95%A8%EC%88%98%EC%9D%98%EB%8F%84%ED%95%A8%EC%88%98.md)
+
+# 3. 정적분
+### 함수가 일 때, 곡선 y=f(x)와 x축 및 x=a, x=b(b>a)로 둘러싸인 영역의 넓이 S를 구분구적법으로 구해라.
+
