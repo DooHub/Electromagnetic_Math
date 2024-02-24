@@ -53,4 +53,7 @@ ________________________________________________
 
 # 3. 정적분
 ### 함수가 일 때, 곡선 y=f(x)와 x축 및 x=a, x=b(b>a)로 둘러싸인 영역의 넓이 S를 구분구적법으로 구해라.
+![Integral](https://github.com/DooHub/Electromagnetic_Math/assets/99073912/233d304f-6f00-4da5-b7dd-c4d2980764aa)
+
+### $\Delta x=\frac{b-a}{n}, \ x_k=a+\Delta x\ \longrightarrow \ S_k=\Delta xf(x_k), \ S_n=\sum\limits_{k=1}^n S_k=\sum\limits_{k=1}^n \Delta xf(x_k)$
 
