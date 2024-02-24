@@ -13,7 +13,7 @@
 ________________________________________________
 ### 2) $\sum\limits_{k=1}^nk^2=\frac{n(n+1)(2n+1}{6}$ 증명 하라
 ### $(n+1)^3-n^3=3n^2+3n+1$ 을 이용하여 n에 $n=1,2, \cdots,n$ 넣은 후에 각 항을 모두 더한다.
-
+<img src="https://github.com/DooHub/Electromagnetic_Math/assets/99073912/fb6dc3d3-1459-4579-922d-932104601fc7" width=300 />
 
 ### $(n+1)^3-1^3=3(1^2+2^2+\cdots+n^2)+3(1+2\cdots+n)+n\longrightarrow$ 1)
 ### $1+2+\cdots+n=\frac{n(n+1)}{2},\ Let: \  1^2+2^2+\cdots+n^2=S_n$
