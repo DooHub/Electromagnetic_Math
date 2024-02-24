@@ -37,4 +37,4 @@ ________________________________________________
 ### 밑변의 길이가 a, 높이가 h인 삼각형의 넓이 S를 구분구적법을 이용하여 구하라.
 ![triangle](https://github.com/DooHub/Electromagnetic_Math/assets/99073912/41f807b9-0de1-48bc-aabb-0fa1c04fbd5e)
 
-### $S_k=\frac{a}{n}k\frac{h}{n}=\frac{ah}{n^2}k, \quad S_n=\sum\limits_{k=1}^n S_k=\sum\limits_{k=1}^n \frac{ah}{n^2}k=\frac{ah}{n^2}\sum\limits_{k=1}^n k=\frac{ah}{n^2}\frac{n(n+1}{2}$
+### $S_k=\frac{a}{n}k\frac{h}{n}=\frac{ah}{n^2}k, \quad S_n=\sum\limits_{k=1}^n S_k=\sum\limits_{k=1}^n \frac{ah}{n^2}k=\frac{ah}{n^2}\sum\limits_{k=1}^n k=\frac{ah}{n^2}\frac{n(n+1)}{2}=\frac{ah(n+1)}{2n}$
