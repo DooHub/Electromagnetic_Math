@@ -30,3 +30,4 @@ ________________________________________________
 
 ### k번째 직사가격의 넓이는 $S_k=\frac{1}{n}(\frac{k}{n})^2 \quad$ n조각의 $S_k$합은 $S_n=\sum\limits_{k=1}^n S_k$
 ### $S_n=\sum\limits_{k=1}^n S_k=\sum\limits_{k=1}^n \frac{1}{n}(\frac{k}{n})^2=\frac{1}{n^3}\sum\limits_{k=1}^n k^2=\frac{1}{n^3}\times \frac{n(n+1)(2n+1)}{6}=\frac{(n+1)(2n+1)}{6n^2}$
+### $S=\underset{n \to \infty }{\text{lim}}S_n=\underset{n \to \infty }{\text{lim}}\frac{(n+1)(2n+1)}{6n^2}=\underset{n \to \infty }{\text{lim}}\frac{(1+\frac{1}{n})(2+\frac{1}{n})}{6}=\frac{1}{3}$
