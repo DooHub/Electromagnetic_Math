@@ -29,4 +29,4 @@ ________________________________________________
 <img src="https://github.com/DooHub/Electromagnetic_Math/assets/99073912/107a6a23-caae-4016-b835-46727f87b2ad" width=800 />
 
 ### k번째 직사가격의 넓이는 $S_k=\frac{1}{n}(\frac{k}{n})^2 \quad$ n조각의 $S_k$합은 $S_n=\sum\limits_{k=1}^n S_k$
-### $S_n=\sum\limits_{k=1}^n S_k=\sum\limits_{k=1}^n \frac{1}{n}(\frac{k}{n})^2=\frac{1}{n^3}\sum\limits_{k=1}^n k^2$
+### $S_n=\sum\limits_{k=1}^n S_k=\sum\limits_{k=1}^n \frac{1}{n}(\frac{k}{n})^2=\frac{1}{n^3}\sum\limits_{k=1}^n k^2=\frac{1}{n^3}\times \frac{n(n+1)(2n+1)}{6}=\frac{(n+1)(2n+1)}{6n^2}$
