@@ -26,4 +26,6 @@ ________________________________________________
 # 2. 구분구적법
 ### 함수 $f(x)=x^2$의 그래프와 x축, 그리고 직선 x=0과 x=1로 둘러싸인 도형의 넓이 S를 구하라. 
 ### (구분구적법으로) $S_k\to S_n\to S=\underset{n \to \infty }{\text{lim}} S_n$
-### 
+<img src="https://github.com/DooHub/Electromagnetic_Math/assets/99073912/107a6a23-caae-4016-b835-46727f87b2ad" width=800 />
+
+### k번째 직사가격의 넓이는 $S_k=\frac{1}{n}(\frac{k}{n})^2\ $ n조각의 $S_k$합은 $S_n=\sum\limits_{k=1}^n S_k$
