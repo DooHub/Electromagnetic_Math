@@ -39,3 +39,6 @@ ________________________________________________
 
 ### $S_k=\frac{a}{n}k\frac{h}{n}=\frac{ah}{n^2}k, \quad S_n=\sum\limits_{k=1}^n S_k=\sum\limits_{k=1}^n \frac{ah}{n^2}k=\frac{ah}{n^2}\sum\limits_{k=1}^n k=\frac{ah}{n^2}\frac{n(n+1)}{2}=\frac{ah(n+1)}{2n}$
 ### $S=\underset{n \to \infty }{\text{lim}}S_n=\underset{n \to \infty }{\text{lim}}\frac{ah(n+1)}{2n}=\frac{ah}{2}\underset{n \to \infty }{\text{lim}}\frac{1+\frac{1}{n}}{1}=\frac{1}{2}ah$
+
+## 예제-2
+### 반지름의 길이가 r인 원의 넓이 S를 구분구적법을 이용하여 구하라.
