@@ -55,5 +55,9 @@ ________________________________________________
 ### 함수가 일 때, 곡선 y=f(x)와 x축 및 x=a, x=b(b>a)로 둘러싸인 영역의 넓이 S를 구분구적법으로 구해라.
 ![Integral](https://github.com/DooHub/Electromagnetic_Math/assets/99073912/233d304f-6f00-4da5-b7dd-c4d2980764aa)
 
-### $\Delta x=\frac{b-a}{n}, \ x_k=a+\Delta x\ \longrightarrow \ S_k=\Delta xf(x_k), \ S_n=\sum\limits_{k=1}^n S_k=\sum\limits_{k=1}^n \Delta xf(x_k)$
+### $\Delta x=\frac{b-a}{n}, \ x_k=a+\Delta x k\ \longrightarrow \ S_k=\Delta xf(x_k), \ S_n=\sum\limits_{k=1}^n S_k=\sum\limits_{k=1}^n \Delta xf(x_k)$
+### $S=\underset{n \to \infty }{\text{lim}}S_n=\underset{n \to \infty }{\text{lim}}\sum\limits_{k=1}^n \Delta xf(x_k)$
+________________________________________________________________________________________________________________________
+### 상기 구한 결과 $S=\underset{n \to \infty }{\text{lim}}\sum\limits_{k=1}^n \Delta xf(x_k)$를 다음과 같이 정의 하고 이를 정적분이라고 한다.
++ ### $\int_{a}^{b}f(x)dx=\underset{n \to \infty }{\text{lim}}\sum\limits_{k=1}^n \Delta xf(x_k), \ x_k=a+k\Delta x, \ \Delta x=\frac{b-a}{n}$
 
