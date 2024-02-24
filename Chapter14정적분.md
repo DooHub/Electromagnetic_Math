@@ -46,4 +46,7 @@ ________________________________________________
 
 
 ### n개의 삼각형이 원 안에 있을 경우, 원의 넓이는 삼각형의 넓이 n개 있는 것이랑 동일 함.
-### $S_
+### $S_k=\frac{1}{2}(2a)h=ah=r\text{sin}\frac{\theta}{2}\times r\text{cos}\frac{\theta}{2}=r^2\text{sin}\frac{\theta}{2}\text{cos}\frac{\theta}{2}=\frac{1}{2}r^2\text{sin}\theta, \quad[\text{sin}(\alpha+\beta)=\text{sin}\alpha\text{cos}\beta+\text{sin}\beta\text{cos}\alpha]$
+### $S_n=\sum\limits_{k=1}^n S_k=\sum\limits_{k=1}^n \frac{1}{2}r^2\text{sin}\theta=\frac{1}{2}nr^2\text{sin}\theta=\frac{1}{2}nr^2\text{sin}\frac{2\pi}{n}$
+### $S=\underset{n \to \infty }{\text{lim}}S_n=\underset{n \to \infty }{\text{lim}}\frac{1}{2}nr^2\text{sin}\frac{2\pi}{n}=\underset{n \to \infty }{\text{lim}}\frac{\text{sin}\frac{2\pi}{n}}{\frac{2\pi}{n}}\pi r^2=\pi r^2\underset{n \to \infty }{\text{lim}}\frac{\text{sin}\frac{2\pi}{n}}{\frac{2\pi}{n}}$
+### $Let, \ x=\frac{2\pi}{n}, n \to \infty, \ x \to 0, \quad S=\pi r^2\underset{x \to 0 }{\text{lim}}\frac{\text{sin}x}{x}=\pi r^2, \quad (\underset{x \to 0 }{\text{lim}}\frac{\text{sin}x}{x}=1)$ 
