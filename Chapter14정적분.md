@@ -1,3 +1,6 @@
+# 0. Introduction
+![why](https://github.com/DooHub/Electromagnetic_Math/assets/99073912/1cc4f312-8659-4cdb-ae74-a1092cec93e1)
+
 # 1. 수열의 합
 ### 1) $\sum\limits_{k=1}^nk=\frac{n(n+1)}{2}$ 증명 하라
 * ### 방법 1
