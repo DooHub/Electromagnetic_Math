@@ -66,3 +66,9 @@ ________________________________________________________________________________
 + ### $\frac{16}{n^4}\sum\limits_{k=1}^n \Delta xf(x_k),\ \Delta x =\frac{b-a}{n},\ x_k=a+\Delta x k$
 + ### $\Delta x=\frac{2}{n}, \ x_k=\frac{2}{n}k, \ \sum\limits_{k=1}^n \Delta xf(x_k)=\sum\limits_{k=1}^n \frac{2}{n}(\frac{2}{n}k)^3=\frac{16}{n^4}\sum\limits_{k=1}^nk^3=\frac{16}{n^4}[\frac{n(n+1)}{2}]^2=\frac{4(n+1)^2}{n^2}$
 + ### $\underset{n \to \infty }{\text{lim}}\frac{4(n+1)^2}{n^2}=4$
+
+
+# 4. 정적분의 성질
++ ### $\int_{a}^{a}f(x)dx=0$
++ ### $\int_{a}^{b}f(x)dx=-\int_{b}^{a}f(x)dx$
++ ### $\int_{a}^{b}[\alpha f(x)+\beta g(x)]dx=\alpha\int_{a}^{b}f(x)dx+\beta\int_{a}^{b}g(x)dx$ (단, $\alpha,\ \beta$는 실수)
