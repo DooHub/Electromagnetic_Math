@@ -63,4 +63,5 @@ ________________________________________________________________________________
 
 ## 예제-3
 ### $\int_{0}^{2}x^3dx$의 값을 정적분의 정의에 의하여 구하라
-+ ### $\underset{n \to \infty }{\text{lim}}\sum\limits_{k=1}^n \Delta xf(x_k),\ \Delta x =a+\frac{b-a}{n},\ $
++ ### $\underset{n \to \infty }{\text{lim}}\sum\limits_{k=1}^n \Delta xf(x_k),\ \Delta x =\frac{b-a}{n},\ x_k=a+\Delta X k$
++ ### $\Delta x=\frac{2}{n}, \ x_k=\frac{2}{n}k, \ \frac{2}{n}$
