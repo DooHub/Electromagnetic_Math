@@ -61,3 +61,5 @@ ________________________________________________________________________________
 ### 상기 구한 결과 $S=\underset{n \to \infty }{\text{lim}}\sum\limits_{k=1}^n \Delta xf(x_k)$를 다음과 같이 정의 하고 이를 정적분이라고 한다.
 + ### $\int_{a}^{b}f(x)dx=\underset{n \to \infty }{\text{lim}}\sum\limits_{k=1}^n \Delta xf(x_k), \ x_k=a+k\Delta x, \ \Delta x=\frac{b-a}{n}$
 
+## 예제-3
+### $\int_{0}^{2}x^3dx$의 값을 정적분의 정의에 의하여 구하라
