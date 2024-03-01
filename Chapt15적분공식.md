@@ -15,3 +15,9 @@
 ### 14) $\int_{}^{}\text{csc}xdx=ln\left| \text{csc}x-\text{cot}x \right|+C$
 ### 15) $\int_{}^{}\frac{1}{\sqrt{1-x^2}}dx=\text{sin}^{-1}x+C$
 ### 16) $\int_{}^{}\frac{1}{1+x^2}dx=\text{tan}^{-1}x+C$
+
+# 2. 활용법
+### 1)~8)까지는 외우고 나머지는 유도 과정을 익혀서 모델링 할 때 적용
++ ### 12)  $\int_{}^{}\text{cot}xdx=ln\left| \text{sin}x\right|+C$
+  ### $\int_{}^{}\text{cot}xdx=\int_{}^{}\frac{\text{cos}x}{\text{sin}x}dx, \quad(u=\text{sin}x,du=\text{cos}xdx)$
+  ### $\int_{}^{}\frac{1}{u}du=ln\left| u \right|+C,(u=\text{sin}x) \quad \therefore \int_{}^{}\text{cot}xdx=ln\left| \text{sin}x \right|+C$
