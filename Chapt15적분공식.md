@@ -14,3 +14,4 @@
 ### 13) $\int_{}^{}\text{sec}xdx=ln\left| \text{sec}x+\text{tan}x \right|+C$
 ### 14) $\int_{}^{}\text{csc}xdx=ln\left| \text{csc}x-\text{cot}x \right|+C$
 ### 15) $\int_{}^{}\frac{1}{\sqrt{1-x^2}}dx=\text{sin}^{-1}x+C$
+### 16) $\int_{}^{}\frac{1}{1+x^2}dx=\text{tan}^{-1}x+C$
