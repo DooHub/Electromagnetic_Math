@@ -26,3 +26,5 @@
   ### $u=\text{sin}x, du=\text{cos}xdx, \quad \int_{}^{}\frac{\text{cos}x}{1-\text{sin}^2x}dx\longrightarrow \int_{}^{}\frac{1}{1-u^2}du=\int_{}^{}\frac{1}{(1-u)(1+u)}du$
   ### $\frac{1}{(1-u)(1+u)}=\frac{A}{(1-u)}+\frac{B}{(1+u)}, (A=\frac{1}{2},B=\frac{1}{2}), \longrightarrow \int_{}^{}\frac{1}{(1-u)(1+u)}du=\frac{1}{2}\int_{}^{}(\frac{1}{1-u}+\frac{1}{1+u})du$
   ### $\frac{1}{2}\int_{}^{}(\frac{1}{1-u}+\frac{1}{1+u})du=\frac{1}{2}\left[ ln\left| 1+u \right| -ln\left| 1-u \right|\right]+C=\frac{1}{2}ln\left| \frac{1+u}{1-u} \right|+C$
+  ### $\frac{1+\text{sin}x}{1-\text{sin}x}=\frac{(1+\text{sin}x)^2}{1-\text{sin}^2x}=\frac{(1+\text{sin}x)^2}{\text{cos}^2x}=\left[  \frac{(1+\text{sin}x)}{\text{cos}x} \right]^2=(\text{sec}x+\text{tan}x)^2$
+  ### $\int_{}^{}\text{sec}xdx=\frac{1}{2}ln\left| \frac{1+\text{sin}x}{1-\text{sin}x} \right|+C=\frac{1}{2}ln(\text{sec}x+\text{tan}x)^2+C=ln\left| \text{sec}x+\text{tan}x  \right|+C$
