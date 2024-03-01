@@ -24,4 +24,4 @@
 + ### 13)의 경우 $\int_{}^{}\text{sec}xdx=ln\left| \text{sec}x+\text{tan}x \right|+C$
   ### $\int_{}^{}\text{sec}xdx=\int_{}^{}\frac{1}{\text{cos}x}dx=\int_{}^{}\frac{\text{cos}x}{\text{cos}^2x}dx=\int_{}^{}\frac{\text{cos}x}{1-\text{sin}^2x}dx, \ (1=\text{sin}^2x+\text{cos}^2x)$
   ### $u=\text{sin}x, du=\text{cos}xdx, \quad \int_{}^{}\frac{\text{cos}x}{1-\text{sin}^2x}dx\longrightarrow \int_{}^{}\frac{1}{1-u^2}dx=\int_{}^{}\frac{1}{(1-u)(1+u)}dx$
-  ### $\frac{1}{(1-u)(1+u)=\frac{A}{(1-u)}+\frac{B}{(1+u)}, (A=\frac{1}{2},B=\frac{1}{2}), \quad
+  ### $\frac{1}{(1-u)(1+u)=\frac{A}{(1-u)}+\frac{B}{(1+u)}, (A=\frac{1}{2},B=\frac{1}{2}), \quad$
