@@ -31,3 +31,7 @@
 + ### 15)의 경우 $\int_{}^{}\frac{1}{\sqrt{1-x^2}}dx$
   ### $x=\text{sin}\theta, \ dx=\text{cos}\theta d\theta \quad (\theta=\text{sin}^{-1}x,\text{sin}^{-1}x=\text{arcsin}x)$
   ### $\int_{}^{}\frac{1}{\sqrt{1-x^2}}dx=\int_{}^{}\frac{\text{cos}\theta}{\sqrt{1-\text{sin}^2\theta}}d \theta=\int_{}^{}\frac{\text{cos}\theta}{\text{cos}\theta}d \theta=\int_{}^{}d \theta=\theta+C=\text{sin}^{-1}x+C, \ (1-\text{sin}^2 \theta=\text{cos}^2\theta)$
+
++ ### 16)의 경우 $\int_{}^{}\frac{1}{1+x^2}dx=\text{tan}^{-1}x+C$
+  ### $x=\text{tan}\theta, \ dx=\text{sec}^2\theta d\theta \quad (\theta=\text{tan}^{-1}x,\text{tan}^{-1}x=\text{arctan}x)$
+  ### $\int_{}^{}\frac{1}{1+x^2}dx=$\int_{}^{}\frac{\text{sec}^2\theta}{1+\text{tan}^2\theta}d \theta$
