@@ -35,3 +35,6 @@
 + ### 16)의 경우 $\int_{}^{}\frac{1}{1+x^2}dx=\text{tan}^{-1}x+C$
   ### $x=\text{tan}\theta, \ dx=\text{sec}^2\theta d\theta \quad (\theta=\text{tan}^{-1}x,\text{tan}^{-1}x=\text{arctan}x)$
   ### $\int_{}^{}\frac{1}{1+x^2}dx=\int_{}^{}\frac{\text{sec}^2\theta}{1+\text{tan}^2\theta}d \theta=\int_{}^{}d \theta=\theta+C=\text{tan}^-1x,\ (\text{sec}^2\theta=1+\text{tan}^2\theta)$
+# 예제
+## 예제-1 부정적분 $I=\int_{}^{}\frac{x}{\text{sin}^2x^2}dx$
++ ### $u=x^2, \ du=2xdx \quad I=\int_{}^{}\frac{1}{2}\frac{1}{\text{sin}^2u}du=\frac{1}{2}\int_{}^{}\text{csc}^2udu=-\frac{1}{2}\text{cot}u+C=-\frac{1}{2}\text{cot}x^2+C$
