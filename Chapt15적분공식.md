@@ -34,4 +34,4 @@
 
 + ### 16)의 경우 $\int_{}^{}\frac{1}{1+x^2}dx=\text{tan}^{-1}x+C$
   ### $x=\text{tan}\theta, \ dx=\text{sec}^2\theta d\theta \quad (\theta=\text{tan}^{-1}x,\text{tan}^{-1}x=\text{arctan}x)$
-  ### $\int_{}^{}\frac{1}{1+x^2}dx=$\int_{}^{}\frac{\text{sec}^2\theta}{1+\text{tan}^2\theta}d \theta$
+  ### $\int_{}^{}\frac{1}{1+x^2}dx=\int_{}^{}\frac{\text{sec}^2\theta}{1+\text{tan}^2\theta}d \theta$
