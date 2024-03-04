@@ -30,4 +30,4 @@
   ### $\int_{}^{}\text{sec}xdx=\frac{1}{2}ln\left| \frac{1+\text{sin}x}{1-\text{sin}x} \right|+C=\frac{1}{2}ln(\text{sec}x+\text{tan}x)^2+C=ln\left| \text{sec}x+\text{tan}x  \right|+C$
 + ### 15)의 경우 $\int_{}^{}\frac{1}{\sqrt{1-x^2}}dx$
   ### $x=\text{sin}\theta, \ dx=\text{cos}\theta d\theta \quad (\theta=\text{sin}^{-1}x,\text{sin}^{-1}x=\text{arcsin}x)$
-  ### $\int_{}^{}\frac{1}{\sqrt{1-x^2}}dx=\int_{}^{}\frac{\text{cos}\theta}{\sqrt{1-\text{sin}^2\theta}}d \theta=\int_{}^{}\frac{\text{cos}\theta}{\text{cos}\theta}d \theta$
+  ### $\int_{}^{}\frac{1}{\sqrt{1-x^2}}dx=\int_{}^{}\frac{\text{cos}\theta}{\sqrt{1-\text{sin}^2\theta}}d \theta=\int_{}^{}\frac{\text{cos}\theta}{\text{cos}\theta}d \theta=\int_{}^{}d \theta=\theta+C (1-\text{sin}^2 \theta=\text{cos}^2\theta$
