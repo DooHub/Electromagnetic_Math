@@ -38,3 +38,5 @@
 # 예제
 ## 예제-1 부정적분 $I=\int_{}^{}\frac{x}{\text{sin}^2x^2}dx$
 + ### $u=x^2, \ du=2xdx \quad I=\int_{}^{}\frac{1}{2}\frac{1}{\text{sin}^2u}du=\frac{1}{2}\int_{}^{}\text{csc}^2udu=-\frac{1}{2}\text{cot}u+C=-\frac{1}{2}\text{cot}x^2+C$
+## 예제-2 부정적분 $I=\int_{}^{}\frac{3}{\sqrt{1-4x^2}}dx$
++ ### $\text{Let} \ 2x=\text{sin}\theta, \ (1-\text{cos}^2\theta=\text{sin}^2\theta)$
