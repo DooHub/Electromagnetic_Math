@@ -45,5 +45,5 @@
   ### $2dx=\text{cos}\theta d\theta, \quad I=\int_{}^{}\frac{3}{\sqrt{1-\text{sin}^2\theta}}\frac{1}{2}\text{cos}\theta d\theta=\frac{3}{2}\int_{}^{}\frac{\text{cos}\theta}{\text{cos}\theta}d \theta=\frac{3}{2}\theta+C=\frac{3}{2}\text{sin}^{-1}2x+C$
 ## 예제-3 부정적분 $I=\int_{}^{}\frac{2}{x^2-4x+8}dx$
 + ### $x^2-4x+8=(x-2)^2+2^2, \ \text{Let} \ x-2=2\text{tan}\theta, \ dx=2\text{sec}^2\theta d\theta$
-  ### $I=\int_{}^{}\frac{2}{4\text{tan}^2\theta+4}2\text{sec}^2\theta d\theta=\int_{}^{}\frac{\text{sec}^2\theta}{\text{sec}^2\theta}d \theta, \ (\text{tan}^2\theta+1=\text{sec}^2\theta)$
+  ### $I=\int_{}^{}\frac{2}{4\text{tan}^2\theta+4}2\text{sec}^2\theta d\theta=\int_{}^{}\frac{\text{sec}^2\theta}{\text{sec}^2\theta}d \theta=\theta+C=\text{tan}^{-1}\frac{x-2}{2}+C, \ (\text{tan}^2\theta+1=\text{sec}^2\theta)$
   
