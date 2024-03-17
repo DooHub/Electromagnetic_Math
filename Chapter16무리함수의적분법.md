@@ -9,9 +9,10 @@
 
 
 ### 예제-2 부정적분  $I=\int_{}^{}x\sqrt[3]{x-2}dx$를 구하여라.
-### $Let \quad u=x-2,du=dx \quad I=\int_{}^{}(u+2)u^{\frac{1}{3}}du=\int_{}^{}(u^{\frac{4}{3}}+2u^{\frac{1}{3}})du=\frac{3}{7}u^{\frac{7}{3}}+2\frac{3}{4}u^{\frac{4}{3}}+C$
-### $I=\frac{3}{7}(x-2)^{\frac{7}{3}}+\frac{3}{2}(x-2)^{\frac{4}{3}}+C$
++ ### $Let \quad u=x-2,du=dx \quad I=\int_{}^{}(u+2)u^{\frac{1}{3}}du=\int_{}^{}(u^{\frac{4}{3}}+2u^{\frac{1}{3}})du=\frac{3}{7}u^{\frac{7}{3}}+2\frac{3}{4}u^{\frac{4}{3}}+C$
+  ### $I=\frac{3}{7}(x-2)^{\frac{7}{3}}+\frac{3}{2}(x-2)^{\frac{4}{3}}+C$
 
 ### 예제-3 부정적분  $I=\int_{}^{}\sqrt{a^2-x^2}dx$를 구하여라.
-### 상기 방식으로는 접근이 어려움. 삼각함수를 고려하여 계산
-### $Let \quad x=a\text{sin}\theta,dx=a\text{cos}\theta d \theta, \quad I=\int_{}^{}\sqrt{a^2-a^2\text{sin}^2\theta}a\text{cos}\theta d \theta =\int_{}^{}\sqrt{a^2\text{cos}^2\theta}a\text{cos}\theta d \theta=\int_{}^{}a^2\text{cos}^2\theta d \theta=a^2\int_{}^{}\text{cos}^2\theta d \theta$
++ ### 상기 방식으로는 접근이 어려움. 삼각함수를 고려하여 계산
+  ### $Let \quad x=a\text{sin}\theta,dx=a\text{cos}\theta d \theta, \quad I=\int_{}^{}\sqrt{a^2-a^2\text{sin}^2\theta}a\text{cos}\theta d \theta =\int_{}^{}\sqrt{a^2\text{cos}^2\theta}a\text{cos}\theta d \theta=\int_{}^{}a^2\text{cos}^2\theta d \theta=a^2\int_{}^{}\text{cos}^2\theta d \theta$
+  ### 제곱형태의 삼각함수를 제곱이 아닌 형태로 변경 $\text{cos}(\alpha+\beta)=\text{cos}\alpha\text{cos}\beta-\text{sin}\alpha\text{sin}\beta \ ,\text{sin}^2\alpha=1-\text{cos}^2\alpha$
