@@ -10,4 +10,4 @@
 
 ### 예제-2 부정적분  $I=\int_{}^{}x\sqrt[3]{x-2}dx$를 구하여라.
 ### $Let \quad u=x-2,du=dx \quad I=\int_{}^{}(u+2)u^{\frac{1}{3}}du=\int_{}^{}(u^{\frac{4}{3}}+2u^{\frac{1}{3}})du=\frac{3}{7}u^{\frac{7}{3}}+2\frac{3}{4}u^{\frac{4}{3}}+C$
-
+### $I=\frac{3}{7}(x-2)^{\frac{7}{3}}+\frac{3}{2}(x-2)^{\frac{4}{3}}+C$
