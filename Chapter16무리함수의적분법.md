@@ -8,4 +8,4 @@
 ### $I=\int_{}^{}\frac{2u}{2u^2-u}du=\int_{}^{}\frac{2}{2u-1}du=ln\left| 2u \right|+C=ln\left| 2\sqrt{x} \right|+C,\ (\int_{}^{}\frac{1}{ax+b}dx=\frac{1}{a}ln\left| ax+b \right|+C)$
 
 
-### 예제-2 부정적분  $I=\int_{}^{}x\sqrt{x-2}^3dx$를 구하여라.
+### 예제-2 부정적분  $I=\int_{}^{}x\sqrt[3]{x-2}dx$를 구하여라.
