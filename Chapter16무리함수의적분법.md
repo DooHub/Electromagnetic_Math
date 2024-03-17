@@ -4,3 +4,5 @@
 
 
 ### 예제-1 부정적분 $I=\int_{}^{}\frac{1}{2x+\sqrt{x}}dx$를 구하여라.
+### $Let \quad u=\sqrt{x}=x^{\frac{1}{2}},du=\frac{1}{2}x^{-\frac{1}{2}}dx=\frac{1}{2\sqrt{x}}dx,2udu=dx$
+### $$
