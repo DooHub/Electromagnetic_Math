@@ -16,3 +16,4 @@
 + ### 상기 방식으로는 접근이 어려움. 삼각함수를 고려하여 계산
   ### $Let \quad x=a\text{sin}\theta,dx=a\text{cos}\theta d \theta, \quad I=\int_{}^{}\sqrt{a^2-a^2\text{sin}^2\theta}a\text{cos}\theta d \theta =\int_{}^{}\sqrt{a^2\text{cos}^2\theta}a\text{cos}\theta d \theta=\int_{}^{}a^2\text{cos}^2\theta d \theta=a^2\int_{}^{}\text{cos}^2\theta d \theta$
   ### 제곱형태의 삼각함수를 제곱이 아닌 형태로 변경 $\text{cos}(\alpha+\beta)=\text{cos}\alpha\text{cos}\beta-\text{sin}\alpha\text{sin}\beta \ ,\text{sin}^2\alpha=1-\text{cos}^2\alpha$
+  ### $I=a^2\int_{}^{}\text{cos}^2\theta d \theta=a^2\int_{}^{}\frac{1+\text{cos}2\theta}{2}d \theta=\frac{a^2}{2}\left[ \theta +\frac{1}{2}\text{sin}2\theta \right]+C=\frac{1}{2}a^2\text{sin}^{-1}\frac{x}{a}+\frac{1}{4}a^2\text{sin}2\theta+C$
