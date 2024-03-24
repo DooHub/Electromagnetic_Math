@@ -19,3 +19,7 @@
   ### $I=a^2\int_{}^{}\text{cos}^2\theta d \theta=a^2\int_{}^{}\frac{1+\text{cos}2\theta}{2}d \theta=\frac{a^2}{2}\left[ \theta +\frac{1}{2}\text{sin}2\theta \right]+C=\frac{1}{2}a^2\text{sin}^{-1}\frac{x}{a}+\frac{1}{4}a^2\text{sin}2\theta+C$
   ### $\frac{x}{a}=\text{sin}\theta, \frac{\sqrt{a^2-x^2}}{a^2}=\text{cos}\theta,\text{sin}(\alpha+\beta)=\text{sin}\alpha\text{cos}\beta+\text{sin}\beta\text{cos}\alpha,\text{sin}2\alpha=2\text{sin}\alpha\text{cos}\beta$
   ### $I=\frac{1}{2}a^2\text{sin}^{-1}\frac{x}{a}+\frac{1}{4}a^2\text{sin}2\theta+C=\frac{1}{2}a^2\text{sin}^{-1}\frac{x}{a}+\frac{1}{4}a^22\text{sin}\theta\text{cos}\theta+C=\frac{1}{2}a^2\text{sin}^{-1}\frac{x}{a}+\frac{x}{2}\sqrt{a^2-x^2}+C$
+
+### 예제-4 부정적분  $I=\int_{}^{}\frac{\sqrt{a-x^2}}{x^2}dx$를 구하여라.
++ ### 상기 방식으로는 접근이 어려움. 삼각함수를 고려하여 계산
+  ###  $Let \quad x=a
