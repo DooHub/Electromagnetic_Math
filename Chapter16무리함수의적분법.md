@@ -24,3 +24,4 @@
 + ### 상기 방식으로는 접근이 어려움. 삼각함수를 고려하여 계산
   ###  $Let \quad x=3\text{sin}\theta, dx=3\text{cos}\theta d \theta \quad I=\int_{}^{}\frac{\sqrt{9-x^2}}{x^2}dx=\int_{}^{}\frac{\sqrt{9-9\text{sin}^2\theta}}{3^2\text{sin}^2\theta}3\text{cos}\theta d\theta=\int_{}^{}\frac{\sqrt{9\text{cos}^2\theta}}{3^2\text{sin}^2\theta}3\text{cos}\theta d\theta=\int_{}^{}\frac{\text{cos}^2\theta}{\text{sin}^2\theta}d \theta$
   ###  $I=\int_{}^{}\frac{\text{cos}^2\theta}{\text{sin}^2\theta}d \theta=\int_{}^{}\text{cot}^2\theta d \theta=\int_{}^{}(\text{csc}^2\theta-1)d \theta=-\text{cot}\theta-\theta +C$
+  <img src="16_5](https://github.com/DooHub/Electromagnetic_Math/assets/99073912/7c476384-d7cd-4b10-b0cc-ce20ad13c69d" width=300 />
