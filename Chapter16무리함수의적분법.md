@@ -47,5 +47,5 @@
 ### z=0인 경우 x와 Y평면에 P가 존재하고 Z축에서 X와Y평면으로 향하는 Vector의 크기는 r이 된다 $\hat{a}_{r}=\frac{\vec{r}}{\left| \vec{r} \right|} =\frac{\vec{r}}{r}$
 <img src="https://github.com/DooHub/Electromagnetic_Math/assets/99073912/30958533-4fb0-486a-8f18-0fb783ed514f" width=1000 />
 
-### $\frac{dQ}{dz}=\rho_{L}\left[ C/m \right],\quad dQ=\rho_{L}dz \quad \vec{E}=\int_{}^{}d\vec{E},\quad d\vec{E}= \frac{dQ}{4\pi\varepsilon_{o}r^2}\hat{a_{r}}=$
+### $\frac{dQ}{dz}=\rho_{L}\left[ C/m \right],\quad dQ=\rho_{L}dz \quad \vec{E}=\int_{}^{}d\vec{E},\quad d\vec{E}= \frac{dQ}{4\pi\varepsilon_{o}r^2}\hat{a_{r}}=\frac{\rho_{L}}{4\pi\varepsilon_{o}r^3}\vec{r}$
 ### 
