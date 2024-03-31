@@ -32,3 +32,4 @@
 + ### 상기 방식으로는 접근이 어려움. 삼각함수를 고려하여 계산, 항의 제곱 형태
   ###  $Let \quad x=2\text{tan}\theta, dx=2\text{sec}^2\theta d \theta$
   ### $I=\int_{}^{}\frac{2\text{sec}^2\theta}{\sqrt{4+4\text{tan}^2\theta}}d\theta=\int_{}^{}\frac{2\text{sec}^2\theta}{2\text{sec}\theta}d\theta=\int_{}^{}\text{sec}\theta d\theta, \quad(1+\text{tan}^2\theta=\text{sec}^2\theta)$
+  ### 적분 공식
