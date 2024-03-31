@@ -36,3 +36,4 @@
   <img src="https://github.com/DooHub/Electromagnetic_Math/assets/99073912/9db81dac-e7fb-4fff-b5f7-31622a37ea74" width=700 />
 
   ### $I=\int_{}^{}\text{sec}\theta d\theta=\text{ln}\left| \text{tan}\theta+\text{sec}\theta \right|+C'=\text{ln}\left| \frac{\sqrt{4+x^2}}{2}+\frac{x}{2} \right|+C'=\text{ln}\left| \sqrt{4+x^2}+x \right|-\text{ln}2+C'\quad (\text{ln}\frac{a}{b}=\text{ln}a-\text{ln}b, C=-\text{ln}2+C')$
+  ### x에 상관없이 $\sqrt{4+x^2}>x,sqrt{4+x^2}+x>0 \therefore I=\text{ln}(\sqrt{4+x^2}+x)+C$
