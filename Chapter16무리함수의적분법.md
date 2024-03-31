@@ -27,3 +27,4 @@
   <img src="https://github.com/DooHub/Electromagnetic_Math/assets/99073912/7c476384-d7cd-4b10-b0cc-ce20ad13c69d" width=700 />
 
   ### $I=-\text{cot}\theta-\theta +C=-\frac{\sqrt{9-x^2}}{x}-\text{sin}^{-1}\frac{x}{3}+C$
+  ### 
