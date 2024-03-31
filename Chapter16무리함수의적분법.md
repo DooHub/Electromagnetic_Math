@@ -35,3 +35,4 @@
   ### $\int_{}^{}\text{sec}\theta d\theta=\text{ln}\left| \text{tan}\theta+\text{sec}\theta \right|+C$  [적분 공식 ](https://github.com/DooHub/Electromagnetic_Math/blob/main/Chapt15%EC%A0%81%EB%B6%84%EA%B3%B5%EC%8B%9D.md#13-int_textsecxdxlnleft-textsecxtexttanx-rightc)
   <img src="https://github.com/DooHub/Electromagnetic_Math/assets/99073912/9db81dac-e7fb-4fff-b5f7-31622a37ea74" width=700 />
 
+  ### $I=\int_{}^{}\text{sec}\theta d\theta=\text{ln}\left| \text{tan}\theta+\text{sec}\theta \right|+C'=\text{ln}\left| \frac{\sqrt{4+x^2}}{2}+\frac{x}{2} \right|+C'=\text{ln}\left| \sqrt{4+x^2}+x \right|-\text{ln}2+C'\quad (\text{ln}\frac{a}{b}=\text{ln}a-\text{ln}b, C=-\text{ln}2+C')$
