@@ -42,3 +42,5 @@
 ### 공기 중에 점전하 Q로 부터 $\vec{r}$만큼 떨어진 곳에서의 전기장의 세기는 다음과 같다. 
 ### $\vec{E}=\frac{Q}{4\pi\varepsilon_{0}r^2}\hat{a_{r}}$
 ### 이로부터 z축에 무한히 긴 필라멘트가 있고, 이 필라멘트의 단위 길이당 전하가 $\rho_{L}\left[ C/m \right]$로 일정할 때 점 $P(\rho,\phi,0)$에서의 전기장의 세기를 구하여라.
+
+### z=0인 경우 x와 Y평면에 P가 존재하고 Z축에서 X와Y평면으로 향하는 Vector의 크기는 r이 된다 $\hat{a}_{r}=\frac{\vec{r}}{\left| \vec{r} \right|} =\frac{\vec{r}}{r}$
