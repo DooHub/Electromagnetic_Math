@@ -37,3 +37,8 @@
 
   ### $I=\int_{}^{}\text{sec}\theta d\theta=\text{ln}\left| \text{tan}\theta+\text{sec}\theta \right|+C'=\text{ln}\left| \frac{\sqrt{4+x^2}}{2}+\frac{x}{2} \right|+C'=\text{ln}\left| \sqrt{4+x^2}+x \right|-\text{ln}2+C'\quad (\text{ln}\frac{a}{b}=\text{ln}a-\text{ln}b, C=-\text{ln}2+C')$
   ### x에 상관없이 $\sqrt{4+x^2}>x,sqrt{4+x^2}+x>0 \therefore I=\text{ln}(\sqrt{4+x^2}+x)+C$
+
+### 응용예제
+### 공기 중에 점전하 Q로 부터 $\vec{r}$만큼 떨어진 곳에서의 전기장의 세기는 다음과 같다. 
+### $\vec{E}=\frac{Q}{4\pi\varepsilon_{0}r^2}\hat{a_{r}}$
+### 이로부터 z축에 무한히 긴 필라멘트가 있고, 이 필라멘트의 단위 길이당 전하가 로 일정할 때 점 에서의 전기장의 세기를 구하여라.
