@@ -33,4 +33,4 @@
   ###  $Let \quad x=2\text{tan}\theta, dx=2\text{sec}^2\theta d \theta$
   ### $I=\int_{}^{}\frac{2\text{sec}^2\theta}{\sqrt{4+4\text{tan}^2\theta}}d\theta=\int_{}^{}\frac{2\text{sec}^2\theta}{2\text{sec}\theta}d\theta=\int_{}^{}\text{sec}\theta d\theta, \quad(1+\text{tan}^2\theta=\text{sec}^2\theta)$
   ### $\int_{}^{}\text{sec}\theta d\theta=\text{ln}\left| \text{tan}\theta+\text{sec}\theta \right|+C$  [적분 공식 ](https://github.com/DooHub/Electromagnetic_Math/blob/main/Chapt15%EC%A0%81%EB%B6%84%EA%B3%B5%EC%8B%9D.md#13-int_textsecxdxlnleft-textsecxtexttanx-rightc)
-  <img src="https://github.com/DooHub/Electromagnetic_Math/assets/99073912/c81b8375-3d9b-427d-b3f4-8efcdac7b702" />
+  <img src="https://github.com/DooHub/Electromagnetic_Math/assets/99073912/c81b8375-3d9b-427d-b3f4-8efcdac7b702" width=700 />
