@@ -48,4 +48,5 @@
 <img src="https://github.com/DooHub/Electromagnetic_Math/assets/99073912/30958533-4fb0-486a-8f18-0fb783ed514f" width=1000 />
 
 ### $\frac{dQ}{dz}=\rho_{L}\left[ C/m \right],\quad dQ=\rho_{L}dz \quad \vec{E}=\int_{}^{}d\vec{E},\quad d\vec{E}= \frac{dQ}{4\pi\varepsilon_{o}r^2}\hat{a_{r}}=\frac{\rho_{L}}{4\pi\varepsilon_{o}r^3}dz\vec{r}$
+<img src="https://github.com/DooHub/Electromagnetic_Math/assets/99073912/1de1a5cd-6725-4155-94a8-f03ce0653604" width=1000 />
 ### 
