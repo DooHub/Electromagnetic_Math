@@ -59,4 +59,4 @@
 <img src="https://github.com/DooHub/Electromagnetic_Math/assets/99073912/2132e38b-b01e-49b8-846a-c6bcea8b31ff" width=1000 />
 
 
-### $\int_{-\infty}^{\infty}\frac{1}{(\rho^2+z^2)^{\frac{3}{2}}}dz, \quad Let \quad z=\rho\text{tan}\theta,  \,\, dz=\rho\text{sec}^2\theta d \theta    \to      \int_{-\frac{\pi}{2}}^{\frac{\pi}{2}}\frac{\rho\text{sec}^2\theta}{(\rho^2+\rho^2\text{tan}^2\theta)^{\frac{3}{2}}}d\theta$
+### $\int_{-\infty}^{\infty}\frac{1}{(\rho^2+z^2)^{\frac{3}{2}}}dz, \quad Let \quad z=\rho\text{tan}\theta,  \: dz=\rho\text{sec}^2\theta d \theta    \to      \int_{-\frac{\pi}{2}}^{\frac{\pi}{2}}\frac{\rho\text{sec}^2\theta}{(\rho^2+\rho^2\text{tan}^2\theta)^{\frac{3}{2}}}d\theta$
