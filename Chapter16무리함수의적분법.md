@@ -55,4 +55,8 @@
 ### $d\overrightarrow{E}=\frac{\rho_{L}}{4\pi\varepsilon_{o}\left( \rho^2+z^2 \right)^{\frac{3}{2}}}\left( \rho \hat{a_{\rho}}- z\hat{a_{z}}\right)dz\longrightarrow dE_{\rho}=\frac{\rho_{L}\rho}{4\pi\varepsilon_{o}(\rho^2+z^2)^\frac{3}{2}}dz$
 <img src="https://github.com/DooHub/Electromagnetic_Math/assets/99073912/bf6a8364-bcec-4297-9e70-e8361e1ee18f" width=1000 />
 
-### $
+### $\int_{}^{}dE_{\rho}=\int_{}^{}\frac{\rho_{L}\rho}{4\pi(\rho^2+z^2)^\frac{3}{2}}dz=\frac{\rho_{P}\rho}{4\pi\epsilon_{o}}\int_{}^{}\frac{1}{(\rho^2+z^2)^{\frac{3}{2}}}dz$
+
+
+
+### $\int_{-\infty}^{\infty}\frac{1}{(\rho^2+z^2)^{\frac{3}{2}}}dz, \quad Let \quad z=\rho\text{tan}\theta,\; dz=\rho\text{sec}^2\theta d \theta \; \to \;   \int_{-\frac{\pi}{2}}^{\frac{\pi}{2}}\frac{\rho\text{sec}^2\theta}{(\rho^2+\rho^2\text{tan}^2\theta)^{\frac{3}{2}}}d\theta$
