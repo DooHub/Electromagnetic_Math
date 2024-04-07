@@ -64,4 +64,4 @@
 ### $\frac{1}{\rho^2}\int_{-\frac{\pi}{2}}^{\frac{\pi}{2}}\text{cos}\theta d\theta=\frac{2}{\rho^2}\int_{0}^{\frac{\pi}{2}}\text{cos}\theta d\theta=\frac{2}{\rho^2}\\;\text{sin}\theta |_{0}^{\frac{\pi}{2}}=\frac{2}{\rho^2}$ cos우함수(Y축 기준 좌우 대칭),sin기함수 성질 이용
 ### $E_{\rho}=\frac{\rho_{L}\rho}{4\pi\epsilon_{o}}\int_{-\frac{\pi}{2}}^{\frac{\pi}{2}}\frac{1}{\rho^2+z^2}dz=\frac{\rho_{L}\rho}{4\pi\epsilon_{o}}\frac{2}{\rho^2}=\frac{\rho_{L}}{2\pi\epsilon_{o}\rho}$
 ### 전기장의 세기는 벡터의 값을 가진다. (전기자의 크기와 구분해서 사용)
-### $\vec{E}=E_{\rho}\hat{a}=\frac{\rho_{L}}{2\pi\epsilon_{o}\rho}\hat{a}_{\rho}$
+### $\vec{E}=E_{\rho}\hat{a_{\rho}}=\frac{\rho_{L}}{2\pi\epsilon_{o}\rho}\hat{a}_{\rho}$
