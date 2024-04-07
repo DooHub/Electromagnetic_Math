@@ -52,4 +52,5 @@
 
 ### $d\overrightarrow{E}=\frac{\rho_{L}}{4\pi\varepsilon_{o}r^3}dz\vec{r}=\frac{\rho_{L}}{4\pi\left( \rho^2+z^2 \right)^{\frac{3}{2}}}\left( \rho \hat{a_{\rho}}- z\hat{a_{z}}\right)dz$
 ### x와 Y평면 위에 있는 임의 점 P에 영향을 주는 Z축 위의 전하는 Z가 0일 때를 제외 하고 서로 대칑이 때문에 점P에 관점에서는 서로 상쇄 된다. 즉 $\hat{a_{\rho}}$만 남고 $\hat{a_{z}}$는 z의 +,- 위치의 값에 의해 상쇄 됨 $\overrightarrow{E}= E_{\rho} \hat{a_{\rho}}- E_{z}\hat{a_{z}} \quad\longrightarrow  \overrightarrow{E}= E_{\rho} \hat{a_{\rho}}$
-### 
+### $d\overrightarrow{E}=\frac{\rho_{L}}{4\pi\left( \rho^2+z^2 \right)^{\frac{3}{2}}}\left( \rho \hat{a_{\rho}}- z\hat{a_{z}}\right)dz\longrightarrow dE_{\rho}=\frac{\rho_{L}\rho}{4\pi(\rho^2+z^2)^\frac{3}{2}}dz$
+### $
