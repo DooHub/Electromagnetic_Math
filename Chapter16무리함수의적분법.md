@@ -50,7 +50,7 @@
 ### $\frac{dQ}{dz}=\rho_{L}\left[ C/m \right],\quad dQ=\rho_{L}dz \quad \vec{E}=\int_{}^{}d\vec{E},\quad d\vec{E}= \frac{dQ}{4\pi\varepsilon_{o}r^2}\hat{a_{r}}=\frac{\rho_{L}}{4\pi\varepsilon_{o}r^3}dz\vec{r}$
 <img src="https://github.com/DooHub/Electromagnetic_Math/assets/99073912/1de1a5cd-6725-4155-94a8-f03ce0653604" width=1000 />
 
-### $d\overrightarrow{E}=\frac{\rho_{L}}{4\pi\varepsilon_{o}r^3}dz\vec{r}=\frac{\rho_{L}}{4\pi\left( \rho^2+z^2 \right)^{\frac{3}{2}}}\left( \rho \hat{a_{\rho}}- z\hat{a_{z}}\right)dz$
+### $d\overrightarrow{E}=\frac{\rho_{L}}{4\pi\varepsilon_{o}r^3}dz\vec{r}=\frac{\rho_{L}}{4\pi \varepsilon_{o}\left( \rho^2+z^2 \right)^{\frac{3}{2}}}\left( \rho \hat{a_{\rho}}- z\hat{a_{z}}\right)dz$
 ### x와 Y평면 위에 있는 임의 점 P에 영향을 주는 Z축 위의 전하는 Z가 0일 때를 제외 하고 서로 대칑이 때문에 점P에 관점에서는 서로 상쇄 된다. 즉 $\hat{a_{\rho}}$만 남고 $\hat{a_{z}}$는 z의 +,- 위치의 값에 의해 상쇄 됨 $\overrightarrow{E}= E_{\rho} \hat{a_{\rho}}- E_{z}\hat{a_{z}} \quad\longrightarrow  \overrightarrow{E}= E_{\rho} \hat{a_{\rho}}$
 ### $d\overrightarrow{E}=\frac{\rho_{L}}{4\pi\varepsilon_{o}\left( \rho^2+z^2 \right)^{\frac{3}{2}}}\left( \rho \hat{a_{\rho}}- z\hat{a_{z}}\right)dz\longrightarrow dE_{\rho}=\frac{\rho_{L}\rho}{4\pi\varepsilon_{o}(\rho^2+z^2)^\frac{3}{2}}dz$
 <img src="https://github.com/DooHub/Electromagnetic_Math/assets/99073912/bf6a8364-bcec-4297-9e70-e8361e1ee18f" width=1000 />
