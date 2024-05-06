@@ -29,4 +29,4 @@
 ### $\frac{3x+1}{x^2-x-6}=\frac{3x+1}{(x+2)(x-3)}=\frac{A}{x+2}+\frac{B}{x-3} ,\quad(A=\frac{3x+1}{x-3}|{x=-2},B=\frac{3x+1}{x+2}|{x=3} \to A=1,B=2)$  
 ### $I=\int_{}^{}\frac{1}{x+2}dx+\int_{}^{}\frac{2}{x-3}dx=\text{ln}\left| x+2 \right|+2\text{ln}\left| x-3 \right|+C$
 ### $\frac{3x-1}{x^3-x}=\frac{3x-1}{x(x+1)(x-1)}=\frac{A}{x}+\frac{B}{x+1}+\frac{C}{x-1},\quad(A=\frac{3x-1}{(x+1)(x-1)}|x=0,B=\frac{3x-1}{x(x-1)}|x=-1,C=\frac{3x-1}{x(x+1)}|x=1\to A=1,B=-2,C=1)$  
-### $I=\int_{}^{}(\frac{1}{x}+\frac{-2}{x+1}+\frac{1}{x-1})dx=\text{ln}x-2\text{ln}(x+1)+\text{ln}(x-1)+C$
+### $I=\int_{}^{}(\frac{1}{x}+\frac{-2}{x+1}+\frac{1}{x-1})dx=\text{ln}|x|-2\text{ln}|x+1|+\text{ln}|x-1|+C$
