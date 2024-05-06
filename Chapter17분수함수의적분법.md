@@ -14,8 +14,10 @@
 
 -----------------------------------------------------------------------------
 
-### 예제1 부정적분 $I=\int_{}^{}\frac{x+1}{x^2-2x+2}dx$를 구하여라
+### 예제1 - 부정적분 $I=\int_{}^{}\frac{x+1}{x^2-2x+2}dx$를 구하여라
 $I=\int_{}^{}\frac{x+1}{(x-1)^2+1}dx, \quad (u=x-1,du=dx) \quad, I=\int_{}^{}\frac{u+2}{u^2+1}du=\int_{}^{}\frac{u}{u^2+1}du+\int_{}^{}\frac{2}{u^2+1}du$  
 $\int_{}^{}\frac{u}{u^2+1}du=\frac{1}{2}ln\left| u^2+1 \right|+C_{1}=\frac{1}{2}ln\left| x^2-2x+2 \right|+C_{1}$  
 $\int_{}^{}\frac{2}{u^2+1}du=\int_{}^{}\frac{2\text{sec}^2\theta}{\text{tan}^2\theta+1}d\theta=2\theta+C_{2}=2\text{tan}^{-1}u+C_{2}=2\text{tan}^{-1}(x-1)+C_{2},\quad(u=\text{tan}\theta,du=\text{sec}^2\theta d\theta,\text{tan}^2\theta+1=\text{sec}^2\theta)$  
-$I=\frac{1}{2}ln\left| x^2-2x+2 \right|+C_{1}+2\text{tan}^{-1}(x-1)+C_{2}=\frac{1}{2}ln\left| x^2-2x+2 \right|+2\text{tan}^{-1}(x-1)+C$
+$I=\frac{1}{2}ln\left| x^2-2x+2 \right|+C_{1}+2\text{tan}^{-1}(x-1)+C_{2}=\frac{1}{2}ln\left| x^2-2x+2 \right|+2\text{tan}^{-1}(x-1)+C$  
+
+### 예제2 - 부정적분 $I=\int_{}^{}\frac{3x+1}{x^2-x-6}dx$를 구하여라
