@@ -21,3 +21,5 @@ $\int_{}^{}\frac{2}{u^2+1}du=\int_{}^{}\frac{2\text{sec}^2\theta}{\text{tan}^2\t
 $I=\frac{1}{2}ln\left| x^2-2x+2 \right|+C_{1}+2\text{tan}^{-1}(x-1)+C_{2}=\frac{1}{2}ln\left| x^2-2x+2 \right|+2\text{tan}^{-1}(x-1)+C$  
 
 ### 예제2 - 부정적분 $I=\int_{}^{}\frac{3x+1}{x^2-x-6}dx$를 구하여라
+$\frac{3x+1}{x^2-x-6}=\frac{3x+1}{(x+2)(x-3)}=\frac{A}{x+2}+\frac{B}{x-3} ,\quad(A=\frac{3x+1}{x-3}|_{x=-2},B=\frac{3x+1}{x+2}|_{x=3} \to A=1,B=2)$  
+$I=\int_{}^{}\frac{1}{x+2}dx+\int_{}^{}\frac{2}{x-3}dx=\text{ln}\left| x+2 \right|+2\text{ln}\left| x-3 \right|+C$
