@@ -25,9 +25,9 @@
   + $sin(\pi -\theta)=sin\theta$
   + $cos(\pi -\theta)=-cos\theta$
   + $tan(\pi -\theta)=-tan\theta$
-  + $sin(\frac{\pi}{2}-\theta)=cos(\theta)
-  + $cos(\frac{\pi}{2}-\theta)=sin(\theta)
-  + $tan(\frac{\pi}{2}-\theta)=cot(\theta)
+  + $sin(\frac{\pi}{2}-\theta)=cos(\theta)$
+  + $cos(\frac{\pi}{2}-\theta)=sin(\theta)$
+  + $tan(\frac{\pi}{2}-\theta)=cot(\theta)$
 
 # 삼각함수의 덧셈 정리
 ## $cos(\alpha \pm \beta)=cos\alpha cos\beta \mp sin\alpha sin\beta$
